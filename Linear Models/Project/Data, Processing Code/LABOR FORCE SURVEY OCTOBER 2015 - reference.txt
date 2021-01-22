@@ -1,0 +1,826 @@
+Source Information: 
+
+LFSSERIES-JUL03-V2-PUF.dcf
+LFSOCT15-PUF-051414.DAT
+
+(ID Items) 
+
+reg        Region  
+stratum    Stratum  
+psu        Primary Sampling Unit - PSU  
+hhnum      Household Unique Sequential Number  
+urb2k70    C2K Urban Rural Classification (Based on 1970 Definition)  
+pwgt       Final Weight  
+svymo      Survey Month  
+svyyr      Survey Year  
+
+(Household Members)
+
+c101_lno   	  C101-Line Number  
+c05_rel    	  C05-Relationship to Household Head  
+c06_sex    	  C06-Sex  
+c07_age    	  C07-Age as of Last Birthday  
+c08_ms     	  C08-Marital Status  
+c09_grd    	  C09-Highest Grade Completed (2003 - 2011)  
+a02_csch   	  Currently Attending School (April 2005)  
+c10_cnwr   	  C10-Contract/Overseas Worker Indicator  
+j01_usoc   	  C12-Usual Occupation (July 2003 - Jan 2005)  
+c13_work   	  C13-Did do any Work for at Least one Hour during the Past Week?  
+c14_job    	  C14-Did Have a Job/Business during the Past Week?  
+c16_proc   	  C16-Primary Occupation  
+c18_pkb    	  C18-Kind of Business (Primary Occupation)  
+c19pclas   	  C19-Class of Worker (Primary Occupation)  
+c20_ntem   	  C20-Nature of Employment (Primary Occupation)  
+c21_pwhr   	  C21-Normal Working Hours for the Day for the Past Week  
+c22_phrs   	  C22-Total Number of Hours Worked During the Past Week  
+c23_pwmr   	  C23-Did Want more Hours of Work During the Past Week  
+c24_plaw   	  C24-Did Look for Additional Work During the Past Week  
+c25_pfwk   	  C25-Was this his first time to do any Work?  
+c26_pbis   	  C26-Basis of Payment (Primary Occupation)  
+c27_pbsc   	  C27-Basic Pay per Day (Primary Occupation)  
+c28_ojob   	  C28-Other Job Indicator  
+j02_otoc   	  C30-Other Occupation (July 2003 - Jan 2005)  
+j03_okb    	  C32-Kind of Business (Other Occupation) (July 2003 - Jan 2005)  
+j04_ocls   	  C33-Class of Worker (Other Occupation) (July 2003 - Jan 2005)  
+j05_ohrs   	  C34-Number of Hours Worked (Other Occupation) (July 2003 - Jan 2005)  
+j06_obis   	  C35-Basis of Payment (Other Occupation) (July 2003 - Jan 2005)  
+c36_obic   	  C36-Basic Pay per Day (Other Occupation) (July 2003 - Jan 2005)  
+a03_jobs   	  Number of Jobs during the past week (April 2005)  
+a04_thrs   	  Total Hours Worked for all Jobs (April 2005)  
+a05_r48h   	  Reasons for Working More than 48 Hours during the past week (April 2005)  
+c37_avil   	  C37-Was Available for Work During the Past Week?  
+c38_lokw   	  C38-Did Look For Work Anytime During the Past Week?  
+c39_jbsm   	  C39-What Was He Has Been Doing to Find Work During the Past Week?  
+c40_wks    	  C40-Number of Weeks Spent in Looking for Work  
+c41_flwk   	  C41-Was This His First Time to Look For Work?  
+c42_wynt   	  C42-Why Did He not Look for Work?  
+a06_llkw   	  When Last Looked for Work (April 2005)  
+a07_wlng   	  Willingness to take up work during the past week (April 2005)  
+c43_lbef   	  C43-Did He Ever Work At Anytime Before?  
+c45_pocc   	  C45-Previous Occupation  
+a08_pqtr   	  Did work or had a job during the past quarter (April 2005)  
+a09_pqkb   	  Kind of Business (past quarter) (April 2005)  
+cempst1    	  Employment Status (without Availability criterion)  
+newempst   	  Employment Status (Based on New Criteria on Unemployment) (April 2005)  
+j12c09_grade      C09-Highest Grade Completed (January 2012)  
+j12c11_gradtech   C11-Graduate of technical/vocational course  (January 2012)  
+j12c11course      C11-Technical/Vocational course  (January 2012)  
+
+ 
+REG     
+    13   National Capital Region  
+    14   Cordillera Administrative Region  
+     1   Region I - Ilocos Region  
+     2   Region II - Cagayan Valley  
+     3   Region III - Central Luzon  
+    41   Region IVA - CALABARZON  
+    42   Region IVB - MIMAROPA  
+     5   Region V- Bicol  
+     6   Region VI - Western Visayas  
+     7   Region VII - Central Visayas  
+     8   Region VIII - Eastern Visayas  
+     9   Region IX - Zamboanga Peninsula  
+    10   Region X - Northern Mindanao  
+    11   Region XI - Davao  
+    12   Region XII - SOCCSKSARGEN  
+    16   Caraga  
+    15   Autonomous Region in Muslim Mindanao  
+
+URB2K70 
+     1   Urban  
+     2   Rural  
+
+SVYMO   
+    10   October  
+
+SVYYR   
+  2015
+
+C05_REL 
+     1   Head  
+     2   Wife/Spouse  
+     3   Son/daughter  
+     4   Brothers/sisters  
+     5   Son/daughter_law  
+     6   Grandchildren  
+     7   Father/Mother  
+     8   Other Relative  
+     9   Boarder  
+    10   Domestic Helper  
+    11   Non_Relative  
+
+C06_SEX 
+     1   Male  
+     2   Female  
+
+C08_MS  
+     1   Single  
+     2   Married  
+     3   Widowed  
+     4   Divorced/Separated  
+     5   Unknown  
+     6   Annulled  
+
+C09_GRD 
+       0   No Grade Completed  
+       1   Elementary Undegraduate  
+       2   Elementary Graduate  
+       3   Highschool Undergraduate  
+       4   Highschool Graduate  
+       5   College Undergraduate  
+  60  68   College Graduate 
+  70  76   College Graduate 
+      78   College Graduate 
+      99   Not reported
+
+A02_CSCH
+     1   Currently attending school  
+     2   Not currently attending school  
+
+C10_CNWR
+     1   OCW  
+     2   Workers other than OCW  
+     3   Employees in Phil. Embassy, Consulates and other Missions  
+     4   Students Abroad/Tourist  
+     5   Others  
+
+J01_USOC
+   11	14   OFFICIALS OF GOVERNMENT AND SPECIAL INTEREST ORGANIZATIONS, CORPORATE EXECUTIVES, MANAGERS, MANAGING PROPRIETORS AND SUPERVISORS 	
+	11   Officials of Government and Special-Interest Organizations  
+    	12   Corporate Executives and Specialized Managers  
+    	13   General Managers or Managing-Proprietors  
+    	14   Supervisors  
+   21	24   PROFESSIONALS
+    	21   Physicists, Mathematical and Engineering Science Professionals  
+    	22   Life Science and Health Professionals  
+   	23   Teaching Professionals  
+    	24   Other Professionals  	
+   31	34   TECHNICIANS AND ASSOCIATE PROFESSIONALS  
+    	31   Physical Science and Engineering Associate Technicians  
+    	32   Life Science and Health Associate Professionals  
+    	33   Teaching Associate Professionals  
+    	34   Related Associate Professionals  	
+   41	42   CLERKS
+    	41   Office Clerks  
+    	42   Customer Services Clerks  	
+   51	52   SERVICE WORKERS AND SHOP AND MARKET SALES WORKERS  
+	51   Personal and Protective Services Workers  
+    	52   Models, Salespersons and Demonstrators  
+   61	65   FARMERS, FORESTRY WORKERS AND FISHERMEN  
+    	61   Farmers and Other Plant Growers  
+    	62   Animal Producers  
+    	63   Forestry and Related Workers  
+    	64   Fishermen  
+    	65   Hunters and Trappers  	
+   71	74   TRADE AND RELATED WORKERS  
+    	71   Mining, Construction and Related Trade Workers  
+    	72   Metal, Machinery and Related Trade Workers  
+    	73   Precision, Handicraft, Printing and Related Trades Workers  
+    	74   Other Craft and Related Trades Workers  
+   81	83   PLANT AND MACHINE OPERATORS AND ASSEMBLERS  
+    	81   Stationary Plant and Related Operators  
+    	82   Machine Operators and Assemblers  
+    	83   Drivers and Mobile Plant Operators  	
+   91	93   LABORERS AND UNSKILLED WORKERS  
+    	91   Sales and Services Elementary Occupation  
+        92   Agricultural, Forestry, Fishery and Related Laborers  
+        93   Laborers in Mining, Construction, Manufacturing and Transport  	
+    1	 9   SPECIAL OCCUPATIONS  
+     	 1   Armed Forces  
+     	 2   Non-Gainful Occupations  
+     	 9   Other Occupations Not Classifiable  
+
+C13_WORK
+     1   Worked at Least One Hour  
+     2   Did not Work at Least One Hour  
+
+C14_JOB 
+     1   With Job/Business During the Past Week  
+     2   No Job/Business During the Past Week  
+
+C16_PROC
+   11	14   OFFICIALS OF GOVERNMENT AND SPECIAL INTEREST ORGANIZATIONS, CORPORATE EXECUTIVES, MANAGERS, MANAGING PROPRIETORS AND SUPERVISORS	
+	11   Officials of Government and Special-Interest Organizations  
+    	12   Corporate Executives and Specialized Managers  
+    	13   General Managers or Managing-Proprietors  
+    	14   Supervisors  
+   21	24   PROFESSIONALS  
+    	21   Physicists, Mathematical and Engineering Science Professionals  
+    	22   Life Science and Health Professionals  
+   	23   Teaching Professionals  
+    	24   Other Professionals  	
+   31	34   TECHNICIANS AND ASSOCIATE PROFESSIONALS 
+    	31   Physical Science and Engineering Associate Technicians  
+    	32   Life Science and Health Associate Professionals  
+    	33   Teaching Associate Professionals  
+    	34   Related Associate Professionals  	
+   41	42   CLERKS
+    	41   Office Clerks  
+    	42   Customer Services Clerks  	
+   51	52   SERVICE WORKERS AND SHOP AND MARKET SALES WORKERS
+	51   Personal and Protective Services Workers  
+    	52   Models, Salespersons and Demonstrators  
+   61	65   FARMERS, FORESTRY WORKERS AND FISHERMEN  
+    	61   Farmers and Other Plant Growers  
+    	62   Animal Producers  
+    	63   Forestry and Related Workers  
+    	64   Fishermen  
+    	65   Hunters and Trappers  	
+   71	74   TRADE AND RELATED WORKERS 
+    	71   Mining, Construction and Related Trade Workers  
+    	72   Metal, Machinery and Related Trade Workers  
+    	73   Precision, Handicraft, Printing and Related Trades Workers  
+    	74   Other Craft and Related Trades Workers  
+   81	83   PLANT AND MACHINE OPERATORS AND ASSEMBLERS  
+    	81   Stationary Plant and Related Operators  
+    	82   Machine Operators and Assemblers  
+    	83   Drivers and Mobile Plant Operators  	
+   91	93   LABORERS AND UNSKILLED WORKERS  
+    	91   Sales and Services Elementary Occupation  
+        92   Agricultural, Forestry, Fishery and Related Laborers  
+        93   Laborers in Mining, Construction, Manufacturing and Transport  	
+    1	9    SPECIAL OCCUPATIONS  	
+     	1    Armed Forces  
+     	2    Non-Gainful Occupations  
+     	9    Other Occupations Not Classifiable  
+
+C18_PKB 
+   1	3   AGRICULTURE	
+        1   Crop and Animal Production, Hunting and Related Services Activities  
+        2   Forestry and Logging  
+        3   Fishing and Aquaculture  
+   5   43   INDUSTRY
+     	5   Mining of Coal and Lignite  
+     	6   Extraction of Crude Petroleum and Natural Gas  
+     	7   Mining of Metal Ores  
+     	8   Other Mining and Quarrying  
+     	9   Mining Support Services  
+       10   Manufacture of Food Products  
+       11   Manufacture of Beverages  
+       12   Manufacture of Tobacco Products  
+       13   Manufacture of Textiles  
+       14   Manufacture of Wearing Apparel  
+       15   Manufacture of Leather and Related Products  
+       16   Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Bamboo, Cane, Rattan and the Like; Manufacture of Straw and Plaiting Materials  
+       17   Manufacture of Paper and Paper Products  
+       18   Printing and Reproduction of Recorded Media  
+       19   Manufacture of Coke and Refined Petroleum Products  
+       20   Manufacture of Chemicals and Chemical Products  
+       21   Manufacture of Basic Pharmaceutical Products and Pharmaceutical Preparation  
+       22   Manufacture of Rubber and Plastic Products  
+       23   Manufacture of Other NonMetallic Mineral Products  
+       24   Manufacture of Basic Metals  
+       25   Manufacture of Fabricated Metal Products, Except Machinery and Equipment  
+       26   Manufacture of Computer, Electronic and Optical Products  
+       27   Manufacture of Electrical Equipment  
+       28   Manufacture of Machinery and Equipment, not elsewhere classified  
+       29   Manufacture of Motor Vehicles, Trailers and Semi-Trailers  
+       30   Manufacture of Other Transport Equipment  
+       31   Manufacture of Furniture  
+       32   Other Manufacturing  
+       33   Repair and Installation of Machinery and Equipment  
+       35   Electricity, Gas, Steam and Air Conditioning Supply  
+       36   Water Collection, Treatment and Supply  
+       37   Sewerage  
+       38   Waste Collection, Treatment and Disposal Activities; Materials Recovery  
+       39   Remediation Activities and Other Waste Management Services  
+       41   Construction of Buildings  
+       42   Civil Engineering  
+       43   Specialized Construction Activities  
+  45   99   SERVICES
+       45   Wholesale and Retail Trade and Repair of Motor Vehicles and Motorcycles  
+       46   Wholesale Trade, Except of Motor Vehicles and Motorcycles  
+       47   Retail Trade, Except of Motor Vehicles and Motorcycles  
+       49   Land Transport and Transport via Pipelines  
+       50   Water Transport  
+       51   Air Transport  
+       52   Warehousing and Support Activities for Transportation  
+       53   Postal and Courier Activities  
+       55   Accommodation  
+       56   Food and Beverage Service Activities  
+       58   Publishing Activities  
+       59   Motion Picture, Video and Television Programme Production, Sound Recording and Music Publishing Activities  
+       60   Programming and Broadcasting Activities  
+       61   Telecommunications  
+       62   Computer Programming, Consultancy, and Related Activities  
+       63   Information Service Activities  
+       64   Financial Service Activities, Except Insurance and Pension Funding  
+       65   Insurance, Reinsurance, and Pension Funding, Except Compulsory Social Security  
+       66   Activities Auxiliary to Financial Service and Insurance Activities  
+       68   Real Estate Activities  
+       69   Legal and Accounting  
+       70   Activities of Head Offices; Management Consultancy Activities  
+       71   Architecture and Engineering Activities; Technical Testing and Analysis  
+       72   Scientific and Research Development  
+       73   Advertising and Market Research  
+       74   Other Professional, Scientific, and Technical Activities  
+       75   Veterinaty Activities  
+       77   Rental and Leasing Activities  
+       78   Employment Activities  
+       79   Travel Agency, Tour Operator, Reservation Service and Related Activities  
+       80   Security and Investigation Activities  
+       81   Services to Buildings and Landscape Activities  
+       82   Office Administrative, Office Support and Other Business Activities  
+       84   Public Administration and Defense; Compulsory Social Security  
+       85   Education  
+       86   Human Health Activities  
+       87   Residential Care Activities  
+       88   Social Work Activities Without Accommodation  
+       90   Creative Arts and Entertainment Activities  
+       91   Libraries, Archives, Museums and Other Cultural Activities  
+       92   Gambling and Betting Activities  
+       93   Sports Activities and Amusement and Recreation Activities  
+       94   Activities of Membership Organizations  
+       95   Repair of Computers and Personal and Household Goods  
+       96   Other Personal Service Activities  
+       97   Activities of Households as Employers of Domestic Personnel  
+       98   Undifferentiated Goods- and Services-Producing Activities of Private Households for Own Use  
+       99   Activities of Extraterritorial Organizations and Bodies  
+
+C19PCLAS
+     0   Private Household  
+     1   Private Establishment  
+     2   Gov't/Gov't Corporation  
+     3   Self Employed  
+     4   Employer  
+     5   With pay (Family owned Business)  
+     6   Without Pay (Family owned Business)  
+     9   Not Reported  
+
+C20_NTEM
+     1   Permanent Job  
+     2   Short-term  
+     3   Different Employer  
+
+C22_PHRS
+     0   with a job, not at work  
+   999   Not Reported  
+
+C23_PWMR
+     1   Want More Hours of Work  
+     2   Did not Want More Hours of Work  
+
+C24_PLAW
+     1   Looked for Additional Work  
+     2   Did not Look for Additional Work  
+
+C25_PFWK
+     1   First Time to Do Any Work  
+     2   Not First Time to Do Any Work  
+
+C26_PBIS
+     0   In Kind only  
+     1   Per piece  
+     2   Per Hour  
+     3   Per Day  
+     4   Monthly  
+     5   Pakyaw  
+     6   Other Salaries/Wages  
+     7   Commission Basis  
+
+C27_PBSC
+     0   No Wages  
+ 99999   Not Reported  
+
+C28_OJOB
+     1   With Other Occupation  
+     2   No Other Occupation  
+
+J02_OTOC   
+   11	14   OFFICIALS OF GOVERNMENT AND SPECIAL INTEREST ORGANIZATIONS, CORPORATE EXECUTIVES, MANAGERS, MANAGING PROPRIETORS AND SUPERVISORS	
+	11   Officials of Government and Special-Interest Organizations  
+    	12   Corporate Executives and Specialized Managers  
+    	13   General Managers or Managing-Proprietors  
+    	14   Supervisors  
+   21	24   PROFESSIONALS  
+    	21   Physicists, Mathematical and Engineering Science Professionals  
+    	22   Life Science and Health Professionals  
+   	23   Teaching Professionals  
+    	24   Other Professionals  	
+   31	34   TECHNICIANS AND ASSOCIATE PROFESSIONALS 
+    	31   Physical Science and Engineering Associate Technicians  
+    	32   Life Science and Health Associate Professionals  
+    	33   Teaching Associate Professionals  
+    	34   Related Associate Professionals  	
+   41	42   CLERKS
+    	41   Office Clerks  
+    	42   Customer Services Clerks  	
+   51	52   SERVICE WORKERS AND SHOP AND MARKET SALES WORKERS
+	51   Personal and Protective Services Workers  
+    	52   Models, Salespersons and Demonstrators  
+   61	65   FARMERS, FORESTRY WORKERS AND FISHERMEN  
+    	61   Farmers and Other Plant Growers  
+    	62   Animal Producers  
+    	63   Forestry and Related Workers  
+    	64   Fishermen  
+    	65   Hunters and Trappers  	
+   71	74   TRADE AND RELATED WORKERS 
+    	71   Mining, Construction and Related Trade Workers  
+    	72   Metal, Machinery and Related Trade Workers  
+    	73   Precision, Handicraft, Printing and Related Trades Workers  
+    	74   Other Craft and Related Trades Workers  
+   81	83   PLANT AND MACHINE OPERATORS AND ASSEMBLERS  
+    	81   Stationary Plant and Related Operators  
+    	82   Machine Operators and Assemblers  
+    	83   Drivers and Mobile Plant Operators  	
+   91	93   LABORERS AND UNSKILLED WORKERS  
+    	91   Sales and Services Elementary Occupation  
+        92   Agricultural, Forestry, Fishery and Related Laborers  
+        93   Laborers in Mining, Construction, Manufacturing and Transport  	
+    1	9    SPECIAL OCCUPATIONS  	
+     	1    Armed Forces  
+     	2    Non-Gainful Occupations  
+     	9    Other Occupations Not Classifiable  
+
+J03_OKB 
+   1	3  AGRICULTURE	
+     	1   Crop and Animal Production, Hunting and Related Services Activities  
+     	2   Forestry and Logging  
+     	3   Fishing and Aquaculture  
+   5   43  INDUSTRY
+     	5   Mining of Coal and Lignite  
+     	6   Extraction of Crude Petroleum and Natural Gas  
+     	7   Mining of Metal Ores  
+      	8   Other Mining and Quarrying  
+     	9   Mining Support Services  
+       10   Manufacture of Food Products  
+       11   Manufacture of Beverages  
+       12   Manufacture of Tobacco Products  
+       13   Manufacture of Textiles  
+       14   Manufacture of Wearing Apparel  
+       15   Manufacture of Leather and Related Products  
+       16   Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Bamboo, Cane, Rattan and the Like; Manufacture of Straw and Plaiting Materials  
+       17   Manufacture of Paper and Paper Products  
+       18   Printing and Reproduction of Recorded Media  
+       19   Manufacture of Coke and Refined Petroleum Products  
+       20   Manufacture of Chemicals and Chemical Products  
+       21   Manufacture of Basic Pharmaceutical Products and Pharmaceutical Preparation  
+       22   Manufacture of Rubber and Plastic Products  
+       23   Manufacture of Other NonMetallic Mineral Products  
+       24   Manufacture of Basic Metals  
+       25   Manufacture of Fabricated Metal Products, Except Machinery and Equipment  
+       26   Manufacture of Computer, Electronic and Optical Products  
+       27   Manufacture of Electrical Equipment  
+       28   Manufacture of Machinery and Equipment, not elsewhere classified  
+       29   Manufacture of Motor Vehicles, Trailers and Semi-Trailers  
+       30   Manufacture of Other Transport Equipment  
+       31   Manufacture of Furniture  
+       32   Other Manufacturing  
+       33   Repair and Installation of Machinery and Equipment  
+       35   Electricity, Gas, Steam and Air Conditioning Supply  
+       36   Water Collection, Treatment and Supply  
+       37   Sewerage  
+       38   Waste Collection, Treatment and Disposal Activities; Materials Recovery  
+       39   Remediation Activities and Other Waste Management Services  
+       41   Construction of Buildings  
+       42   Civil Engineering  
+       43   Specialized Construction Activities 
+  45   99   SERVICES
+       45   Wholesale and Retail Trade and Repair of Motor Vehicles and Motorcycles  
+       46   Wholesale Trade, Except of Motor Vehicles and Motorcycles  
+       47   Retail Trade, Except of Motor Vehicles and Motorcycles  
+       49   Land Transport and Transport via Pipelines  
+       50   Water Transport  
+       51   Air Transport  
+       52   Warehousing and Support Activities for Transportation  
+       53   Postal and Courier Activities  
+       55   Accommodation  
+       56   Food and Beverage Service Activities  
+       58   Publishing Activities  
+       59   Motion Picture, Video and Television Programme Production, Sound Recording and Music Publishing Activities  
+       60   Programming and Broadcasting Activities  
+       61   Telecommunications  
+       62   Computer Programming, Consultancy, and Related Activities  
+       63   Information Service Activities  
+       64   Financial Service Activities, Except Insurance and Pension Funding  
+       65   Insurance, Reinsurance, and Pension Funding, Except Compulsory Social Security  
+       66   Activities Auxiliary to Financial Service and Insurance Activities  
+       68   Real Estate Activities  
+       69   Legal and Accounting  
+       70   Activities of Head Offices; Management Consultancy Activities  
+       71   Architecture and Engineering Activities; Technical Testing and Analysis  
+       72   Scientific and Research Development  
+       73   Advertising and Market Research  
+       74   Other Professional, Scientific, and Technical Activities  
+       75   Veterinaty Activities  
+       77   Rental and Leasing Activities  
+       78   Employment Activities  
+       79   Travel Agency, Tour Operator, Reservation Service and Related Activities  
+       80   Security and Investigation Activities  
+       81   Services to Buildings and Landscape Activities  
+       82   Office Administrative, Office Support and Other Business Activities  
+       84   Public Administration and Defense; Compulsory Social Security  
+       85   Education  
+       86   Human Health Activities  
+       87   Residential Care Activities  
+       88   Social Work Activities Without Accommodation  
+       90   Creative Arts and Entertainment Activities  
+       91   Libraries, Archives, Museums and Other Cultural Activities  
+       92   Gambling and Betting Activities  
+       93   Sports Activities and Amusement and Recreation Activities  
+       94   Activities of Membership Organizations  
+       95   Repair of Computers and Personal and Household Goods  
+       96   Other Personal Service Activities  
+       97   Activities of Households as Employers of Domestic Personnel  
+       98   Undifferentiated Goods- and Services-Producing Activities of Private Households for Own Use  
+       99   Activities of Extraterritorial Organizations and Bodies  
+
+J04_OCLS
+     0   Private Household  
+     1   Private Establishment  
+     2   Gov't/Gov't Corporation  
+     3   Self Employed  
+     4   Employer  
+     5   With Pay (Family Owned Business)  
+     6   Without Pay (Family Owned Business)  
+     9   Not Reported  
+
+J06_OBIS
+     0   In Kind only  
+     1   Per Piece  
+     2   Per Hour  
+     3   Per Day  
+     4   Monthly  
+     5   Pakyaw  
+     6   Others  
+     7   Commission Basis  
+
+A05_R48H
+     1   Wanted More Earnings  
+     2   Requirements of the Job  
+     3   Exceptional week  
+     4   Ambition, passion for job  
+     5   Other reasons  
+
+C37_AVIL
+     1   Available for Work During the Past Week  
+     2   Not Available for Work During the Past Week  
+
+C38_LOKW
+     1   Looked for Work Anytime During the Past Week  
+     2   Did not Look for Work Anytime During the Past Week  
+
+C39_JBSM
+     1   Registered in Public Employment Agency  
+     2   Registered in Private Employment Agency  
+     3   Approached Employer Directly  
+     4   Approached Relatives or Friends  
+     5   Placed or Answered Advertisements  
+     6   Others  
+     9   Not Reported  
+
+C41_FLWK
+     1   First Time to Look for Work  
+     2   Not First Time to Look For Work  
+
+C42_WYNT
+     1   Tired/Believe No Work Available  
+     2   Awaiting Results of Previous Job Application  
+     3   Temporary Illness/Disability  
+     4   Bad Weather  
+     5   Wait for rehire/Job Recall  
+     6   Too young/old or Retired/Permanent Disability  
+     7   Household, Family Duties  
+     8   Schooling  
+     9   Others  
+
+A06_LLKW
+     1   Within last month  
+     2   One to six months ago  
+     3   More than six months ago  
+
+A07_WLNG
+     1   Willing to take up work during the past week  
+     2   Not willing to take up work during the past week  
+
+C43_LBEF
+     1   Worked at Anytime Before  
+     2   Did not Work at Anytime Before  
+
+C45_POCC
+   11	14   OFFICIALS OF GOVERNMENT AND SPECIAL INTEREST ORGANIZATIONS, CORPORATE EXECUTIVES, MANAGERS, MANAGING PROPRIETORS AND SUPERVISORS	
+	11   Officials of Government and Special-Interest Organizations  
+    	12   Corporate Executives and Specialized Managers  
+    	13   General Managers or Managing-Proprietors  
+    	14   Supervisors  
+   21	24   PROFESSIONALS  
+    	21   Physicists, Mathematical and Engineering Science Professionals  
+    	22   Life Science and Health Professionals  
+   	23   Teaching Professionals  
+    	24   Other Professionals  	
+   31	34   TECHNICIANS AND ASSOCIATE PROFESSIONALS 
+    	31   Physical Science and Engineering Associate Technicians  
+    	32   Life Science and Health Associate Professionals  
+    	33   Teaching Associate Professionals  
+    	34   Related Associate Professionals  	
+   41	42   CLERKS
+    	41   Office Clerks  
+    	42   Customer Services Clerks  	
+   51	52   SERVICE WORKERS AND SHOP AND MARKET SALES WORKERS
+	51   Personal and Protective Services Workers  
+    	52   Models, Salespersons and Demonstrators  
+   61	65   FARMERS, FORESTRY WORKERS AND FISHERMEN  
+    	61   Farmers and Other Plant Growers  
+    	62   Animal Producers  
+    	63   Forestry and Related Workers  
+    	64   Fishermen  
+    	65   Hunters and Trappers  	
+   71	74   TRADE AND RELATED WORKERS 
+    	71   Mining, Construction and Related Trade Workers  
+    	72   Metal, Machinery and Related Trade Workers  
+    	73   Precision, Handicraft, Printing and Related Trades Workers  
+    	74   Other Craft and Related Trades Workers  
+   81	83   PLANT AND MACHINE OPERATORS AND ASSEMBLERS  
+    	81   Stationary Plant and Related Operators  
+    	82   Machine Operators and Assemblers  
+    	83   Drivers and Mobile Plant Operators  	
+   91	93   LABORERS AND UNSKILLED WORKERS  
+    	91   Sales and Services Elementary Occupation  
+        92   Agricultural, Forestry, Fishery and Related Laborers  
+        93   Laborers in Mining, Construction, Manufacturing and Transport  	
+    1	9    SPECIAL OCCUPATIONS  	
+     	1    Armed Forces  
+     	2    Non-Gainful Occupations  
+     	9    Other Occupations Not Classifiable  
+
+A08_PQTR
+     1   Worked or had a job during the past quarter  
+     2   Did not work or had a job during the past quarter   
+
+A09_PQKB
+   1	3   AGRICULTURE	
+     	1   Crop and Animal Production, Hunting and Related Services Activities  
+     	2   Forestry and Logging  
+     	3   Fishing and Aquaculture  
+   5   43   INDUSTRY
+     	5   Mining of Coal and Lignite  
+     	6   Extraction of Crude Petroleum and Natural Gas  
+     	7   Mining of Metal Ores  
+      	8   Other Mining and Quarrying  
+     	9   Mining Support Services  
+       10   Manufacture of Food Products  
+       11   Manufacture of Beverages  
+       12   Manufacture of Tobacco Products  
+       13   Manufacture of Textiles  
+       14   Manufacture of Wearing Apparel  
+       15   Manufacture of Leather and Related Products  
+       16   Manufacture of Wood and of Products of Wood and Cork, Except Furniture; Manufacture of Articles of Bamboo, Cane, Rattan and the Like; Manufacture of Straw and Plaiting Materials  
+       17   Manufacture of Paper and Paper Products  
+       18   Printing and Reproduction of Recorded Media  
+       19   Manufacture of Coke and Refined Petroleum Products  
+       20   Manufacture of Chemicals and Chemical Products  
+       21   Manufacture of Basic Pharmaceutical Products and Pharmaceutical Preparation  
+       22   Manufacture of Rubber and Plastic Products  
+       23   Manufacture of Other NonMetallic Mineral Products  
+       24   Manufacture of Basic Metals  
+       25   Manufacture of Fabricated Metal Products, Except Machinery and Equipment  
+       26   Manufacture of Computer, Electronic and Optical Products  
+       27   Manufacture of Electrical Equipment  
+       28   Manufacture of Machinery and Equipment, not elsewhere classified  
+       29   Manufacture of Motor Vehicles, Trailers and Semi-Trailers  
+       30   Manufacture of Other Transport Equipment  
+       31   Manufacture of Furniture  
+       32   Other Manufacturing  
+       33   Repair and Installation of Machinery and Equipment  
+       35   Electricity, Gas, Steam and Air Conditioning Supply  
+       36   Water Collection, Treatment and Supply  
+       37   Sewerage  
+       38   Waste Collection, Treatment and Disposal Activities; Materials Recovery  
+       39   Remediation Activities and Other Waste Management Services  
+       41   Construction of Buildings  
+       42   Civil Engineering  
+       43   Specialized Construction Activities 
+  45   99   SERVICES
+       45   Wholesale and Retail Trade and Repair of Motor Vehicles and Motorcycles  
+       46   Wholesale Trade, Except of Motor Vehicles and Motorcycles  
+       47   Retail Trade, Except of Motor Vehicles and Motorcycles  
+       49   Land Transport and Transport via Pipelines  
+       50   Water Transport  
+       51   Air Transport  
+       52   Warehousing and Support Activities for Transportation  
+       53   Postal and Courier Activities  
+       55   Accommodation  
+       56   Food and Beverage Service Activities  
+       58   Publishing Activities  
+       59   Motion Picture, Video and Television Programme Production, Sound Recording and Music Publishing Activities  
+       60   Programming and Broadcasting Activities  
+       61   Telecommunications  
+       62   Computer Programming, Consultancy, and Related Activities  
+       63   Information Service Activities  
+       64   Financial Service Activities, Except Insurance and Pension Funding  
+       65   Insurance, Reinsurance, and Pension Funding, Except Compulsory Social Security  
+       66   Activities Auxiliary to Financial Service and Insurance Activities  
+       68   Real Estate Activities  
+       69   Legal and Accounting  
+       70   Activities of Head Offices; Management Consultancy Activities  
+       71   Architecture and Engineering Activities; Technical Testing and Analysis  
+       72   Scientific and Research Development  
+       73   Advertising and Market Research  
+       74   Other Professional, Scientific, and Technical Activities  
+       75   Veterinaty Activities  
+       77   Rental and Leasing Activities  
+       78   Employment Activities  
+       79   Travel Agency, Tour Operator, Reservation Service and Related Activities  
+       80   Security and Investigation Activities  
+       81   Services to Buildings and Landscape Activities  
+       82   Office Administrative, Office Support and Other Business Activities  
+       84   Public Administration and Defense; Compulsory Social Security  
+       85   Education  
+       86   Human Health Activities  
+       87   Residential Care Activities  
+       88   Social Work Activities Without Accommodation  
+       90   Creative Arts and Entertainment Activities  
+       91   Libraries, Archives, Museums and Other Cultural Activities  
+       92   Gambling and Betting Activities  
+       93   Sports Activities and Amusement and Recreation Activities  
+       94   Activities of Membership Organizations  
+       95   Repair of Computers and Personal and Household Goods  
+       96   Other Personal Service Activities  
+       97   Activities of Households as Employers of Domestic Personnel  
+       98   Undifferentiated Goods- and Services-Producing Activities of Private Households for Own Use  
+       99   Activities of Extraterritorial Organizations and Bodies  
+
+CEMPST1 
+     1   Employed  
+     2   Unemployed  
+     3   Not in the labor force  
+
+NEWEMPST
+     1   Employed  
+     2   Unemployed  
+     3   Not in the labor force  
+
+J12C09_GRADE
+     0   No Grade Completed  
+    10   Preschool  
+   210   Grade 1  
+   220   Grade 2  
+   230   Grade 3  
+   240   Grade 4  
+   250   Grade 5  
+   260   Grade 6  
+   280   Elementary Graduate  
+   310   First Year High School  
+   320   Second Year High School  
+   330   Third Year High School  
+   350   High School Graduate  
+   410   First Year Post Secondary  
+   420   Second Year Post Secondary  
+   810   First Year College  
+   820   Second Year College  
+   830   Third Year College  
+   840   Fourth Year College  
+   900   Post Baccalaureate  
+   501   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Basic Programs
+   508   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Literacy and Numeracy Programs
+   509   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Personal Development Programs
+   514   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Teacher Training and Education Sciences Programs
+   521   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Arts Programs
+   522   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Humanities Programs
+   531   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Social and Behavioral Science Programs
+   532   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Journalism and Information Programs
+   534   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Business and Administration Programs
+   542   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Life Sciences Programs
+   544   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Physical Sciences Programs
+   548   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Computing/Information Technology Programs
+   552   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Engineering and Engineering trades Programs
+   554   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Manufacturing and Processing Programs
+   558   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Architecture and Building Programs
+   562   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Agriculture, Forestry, and Fishery Programs
+   564   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Veterinary Programs
+   572   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Health Programs
+   576   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Social Services Programs
+   581   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Personal Services Programs
+   584   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Transport Services Programs
+   585   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Environmental Protection Programs
+   586   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Security Services Programs
+   589   Post Secondary Courses Non-Tertiary/Technical-Vocational Education - Other Programs in Education at the Third Level, First Stage, of the Type that Leads to an Award not Equivalent to a First University or Baccalaureate Degree
+   601   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Basic Programs
+   614   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Teacher Training and Education Sciences Programs
+   621   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Arts Programs
+   622   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Humanities Programs
+   631   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Social and Behavioral Science Programs
+   632   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Journalism and Information Programs
+   634   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Business and Administration Programs
+   638   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Law Programs
+   642   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Life Sciences Programs
+   644   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Physical Sciences Programs
+   646   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Mathematics and Statistics Programs
+   648   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Computing/Information Technology Programs
+   652   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Engineering and Engineering Trades Programs
+   654   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Manufacturing and Processing Programs
+   658   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Architecture and Building Programs
+   662   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Agriculture, Forestry, and Fishery Programs
+   664   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Veterinary Programs
+   672   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Health Programs
+   676   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Social Services Programs
+   681   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Personal Services Programs
+   684   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Transport Services Programs
+   685   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Environmental Protection Programs
+   686   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Security Services Programs
+   689   Academic Degrees First Stage of Tertiary/Baccalaureate Education (Not leading directly to an advanced research qualification) - Other Programs of Education at the Third Level, First Stage, of the Type that Leads to a Baccalaureate or First University/Professional Degree (Higher Education Level, First Stage, or Collegiate Education Level)
+
+
+J12C11_GRADTECH
+     1   Graduate of technical/vocational course  
+     2   Not a graduate of technical/vocational course 

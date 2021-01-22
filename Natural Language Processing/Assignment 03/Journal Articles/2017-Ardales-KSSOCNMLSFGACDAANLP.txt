@@ -1,0 +1,1084 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4klik-suri-ardales.pmd
+
+
+46
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa FacebookHUMANITIES DILIMAN  (JANUARY-JUNE 2017) 14:1, 46-68
+
+ISSN 1655-1532 Print / ISSN 2012-0788 Online
+
+ABSTRACT
+
+This study aims to describe the discourse on the online community of lesbians
+
+in the Philippines. The organization of Lesbian Community or LESCOM was
+
+chosen as subject of the study based on high number of ‘likes’ they received
+
+in Facebook. The texts were automatically gathered, f iltered, shortlisted, and
+
+harvested from their Facebook page using the Natural Language Processing
+
+(NLP). The theoretical framework of Critical Discourse Analysis (CDA) was
+
+used in analysing the data in order to describe online discourses that reflect
+
+the identity and community of lesbians based in the Philippines. The result of
+
+analysis were the following: [1] the emotions projected by exclamatory mark
+
+displayed their identity; [2] some plural words served as their voice for being
+
+group-oriented; [3] frequent usage of personal names manifested their
+
+inclusive community;  and [4] social consciousness was part of their
+
+organizational agenda.
+
+Keywords: Lesbian, identity, Critical Discourse Analysis, Natural Language
+
+Processing, Facebook
+
+Klik-suri sa Online Community
+ng mga Lesbiyana sa Facebook
+Gamit ang Critical Discourse Analysis (CDA)
+at Natural Language Processing (NLP)
+(Click-analysis of a Lesbian Onl ine Community
+in Facebook Using the Critical Discourse Analysis
+and Natural Language Processing)
+
+Alona Jumaquio-Ardales
+De La Salle University Science and Technology Complex
+
+Nathaniel Oco
+National University (Philippines)
+
+Rowell Madula
+De La Salle University
+
+
+
+A. Jumaquio-Ardales, et al.
+
+47
+
+LESBIYANA
+
+Sa lipunang Filipino, maririnig ang taguring “tomboy” upang ilarawan ang babaeng
+umiibig sa kapuwa babae. Nagsimulang gamitin ang terminong ito noon pang ika-13
+siglo para sa isang espiritu ng pusang nagngangalang “Tomboy” (Grahn; binanggit ni
+Hall 557). Sa paglipas ng panahon, nagkaroon ng iba’t ibang katawagan para sa
+lesbiyana, partikular sa Pilipinas. Bahagi nito [1] ang barayti ng salitang tomboy
+tulad ng tibo, obit, boit, t-bird, tibum; [2] ang tambalang salita na butch-femme,
+pars-mars, lester-leslie; [3] ang maskuladong imahen tulad ng dyke, magic, badjao,
+papa, EKT (eeeh kadiri tomboy); [4] ang kategoryang numerikong uno (mukhang
+lalaki), dos (puwedeng mukhang lalaki o babae), at tres (mukhang babae); gayundin
+[5] ang taguring lesbian (WFS-Philippines). Subalit sa papel na ito ay gagamitin ang
+terminong “lesbiyana” na inangking salita mula sa Espanyol na lesbiana at binaybay
+nang pa-Filipino.
+
+Kung babakasin ang kasaysayan, hindi madali ang pag-angkin sa identidad na lesbiyana
+sa pribado at publikong espasyo dahil laganap noon ang “the sickness theory” na
+nagsasabing baliw o may depektong hormonal ang mga lesbiyana kaya nagbunsod
+ito ng aktibong adbokasi pagsapit ng dekada ‘70 upang igiit ang kanilang politikal na
+identidad sa pampublikong espasyo (Stein; binanggit ni Goodloe 2). Nagwakas ang
+ganitong paniniwala sa Estados Unidos noong 1973 at sa bansang Japan noong dekada
+‘90 subalit hindi pa rin maitatangging nararanasan pa rin sa Asya, partikular sa Pilipinas
+ang kawalan ng legal na karapatan ng mga lesbiyana (WFS-PH). Hindi man itinuturing
+na isang krimen o sakit ang pagiging lesbiyana sa Pilipinas, wala pa ring legal na
+proteksiyon para suportahan ang identidad at komunidad ng sektor na ito. Sa katunayan,
+nakasaad sa Kodigong Pampamilya ng Pilipinas (1987) na maaaring gawing batayan
+para sa legal na paghihiwalay o pagpapawalang-bisa ng kasal ang pagiging lesbiyana
+o bakla, inihanay itong rason katulad ng pagkalulong sa ipinagbabawal na gamot o
+alkohol, narito ang direktang sipi:
+
+Ang kasal ay maaaring ipawalang-bisa alinman…sa sumusunod na mga
+pangyayari: paglilihim ng pagkasugapa sa bawal na gamot, pagkagumon
+sa alak, homoseksuwalidad o lesbiyanismo na nagpapatuloy sa panahon
+ng kasal (Art.46, blg.4).
+
+Maaaring isampa ang petisyon para sa legal na paghihiwalay alinman sa
+mga sumusunod na dahilan: lesbiyanismo o homoseksuwalidad ng
+nasasakdal (Art. 55, blg. 6).
+
+
+
+48
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa Facebook
+
+Hindi pinahintulutan ng batas sa Pilipinas na ikasal ang mga lesbiyana kaya hindi
+nila natatamasa ang mga karapatang legal. Sa kabila nito, obligado pa rin silang
+magbayad ng buwis sa gobyerno ng Pilipinas katulad ng mga kababayang
+heteroseksuwal. Walang batas na nagbibigay proteksiyon para sa kanilang partner o
+kasama habambuhay upang mag-ampon, magmay-ari, magmana, at makatanggap ng
+seguro katulad ng SSS, GSIS, at Philhealth (WSF-PH 2001).
+
+Marahil maitatanong, ganito rin kaya ang sitwasyon ng mga lesbiyana sa ibang panig
+ng mundo? Sa aspektong legal, naroon ang pagkilala at pagpapahalaga sa identidad
+at komunidad ng mga lesbiyana sa ilang panig ng mundo katulad sa Netherland,
+Belgium, Spain, Canada, atbp.  (Marchbank at Letherby 366) bagama’t katotohanan pa
+ring maituturing na may kasabay itong mga hamon. Sa kaso ng Pilipinas, hindi pa
+lubusang natatamo ng mga lesbiyana ang karapatang legal upang ganap na kilalanin
+ng estado ang kanilang angking identidad na sadyang iba kaysa mga kababayang
+heteroseksuwal. Sa kabila nito, lantad at aktibo sila sa mga pampublikong espasyo
+katulad ng social media upang ihayag ang tunay nilang pagkakakilanlan at pangkat na
+kinabibilangan.
+
+Sa isinagawang pag-aaral nina Braquet at Mehra (5), itinuring ng kanilang mga kalahok
+ang Internet bilang “means to an end… internet was used as a tool to discover
+venues, events, and organizations that would enable them to meet and connect with
+people in face-to-face situations” (binanggit nina Szulc at Dhoest 359). Tunay na
+malawak at malayo ang nararating ng mga social network sa Internet dahil palatandaan
+ito ng globalisasyon bilang “. . .advanced form of capitalism and a technological
+society” (Plummer 91; binanggit nina Szulc at Dhoest 348) kaya tinagurian itong
+bagong midya. Inaakses ng mga tao ang Internet na may kani-kaniyang pakay, humigit-
+kumulang nasa 40% populasyon ng buong mundo ay naroon dahil sa hangaring
+bumuo ng koneksiyong online at/o offline. Kung babalikan ang taong 1995 ay wala
+pang 1% ng populasyon sa buong mundo ang gumamit ng Internet; subalit naitala sa
+taong 2005 na pumalo sa 1 bilyon ang populasyon ng mga taong gumamit ng
+Internet; at sa taong 2010 dumoble ang bilang na ito dahil umabot sa 2 bilyon ang
+gumamit ng Internet; at sa taong 2014, umakyat sa 3 bilyong tao ang gumamit nito
+(Internet Live Stats). Ang pinakamaraming netizen ay aktibo sa Facebook dahil nasa
+1,389,254,825 na ang populasyon nito at patuloy pang lumalaki (Internet Live
+Stats) kaya ang intensiyong magsaliksik tungkol sa mga lesbiyana ay humantong sa
+kanilang online community sa Facebook.
+
+
+
+A. Jumaquio-Ardales, et al.
+
+49
+
+FACEBOOK: KLIK-HANAP SA MGA LESBIYANA
+
+Paano ba kukuha ng kailangang datos mula sa tila dagat na espasyo ng Internet? Sa
+proseso ng paghahanap ng online community ng mga lesbiyana sa Facebook: ginawa
+muna ang dalawang araw na [1] browsing upang maging pamilyar sa iba’t ibang
+online community ng mga lesbiyana sa loob at labas ng Pilipinas;  pagkatapos ay
+sinundan ang [2] linking ng mga netizen na intresado sa paksang ito para tingnan
+kung ano ang mga online community na kanilang binibisita, nila-like, at nilalahukan;
+sa bahaging sapat na ang eskema ng mga mananaliksik sa lokal at internasyonal na
+komunidad ng mga lesbiyana sa Facebook ay isinagawa ang [3] shortlisting ng mga
+online community; hanggang makarating sa [4] focusing kung saan namili ang mga
+mananaliksik ng tiyak na tuon ng pag-aaral (tingnan ang Pigura 1).
+
+Pigura 1. Browsing, Linking, Shortlisting, and Focusing (BLSF): Hakbang sa pagkuha
+ng sample sa malakihang datos sa Internet.
+
+Sa social network ng Facebook, nakita ng mga mananaliksik ang sampung online
+community ng mga lesbiyanang nakabase sa Pilipinas na may nakuhang maraming
+‘likes.’ Ito ang mga sumusunod: [1] Lesbian Community o LESCOM; [2] Lesbian
+Society of the Philippines; [3] LGBT Group Philippines-Lesbian, Gay, Bisexual &
+Transgender Community Center; [4] 24/7 Lesbian; [5] LGBT Philippines; [6] Lesbian
+Activism Project o LeAP; [7] Lunduyan ng Sining; [8] UP Babaylan; [9] Pinay Discreet
+Lesbian and Bi Femme; at [10] Philippines Lesbian Lovers. Nagtakda ng kraytirya
+para sa magiging kalahok ng pag-aaral. Ang unang konsiderasyon, kailangang online
+community ito ng mga lesbiyana at hindi nakatuon sa gay, bisexual, at transgender.
+Ikalawang konsiderasyon, nakakuha ng pinakamaraming bilang ng mga like, post, at
+share sa kanilang Facebook page. Panghuli, may permiso mula sa online community
+ng mga lesbiyana na suriin ang kanilang Facebook page. Gamit ang mga
+konsiderasyong ito, lumabas ang pangalan ng grupong Lesbian Community o LESCOM.
+
+Sinuri ang mga post ng LESCOM simula noong Agosto 2013 hanggang Marso 2015
+gamit ang teoretikong balangkas ng Critical Discourse Analysis o CDA. Katulad ng
+ibang disiplina, may mga argumento at iba’t ibang posisyon sa larangan ng CDA na
+
+
+
+50
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa Facebook
+
+oportunidad para sa patuloy na pagtuklas at pagpapalawak. Binanggit nina Chouliaraki
+at Fairclough ang Discourse of Orientalism ni Said na nakasalig sa teorya ng diskurso
+ni Foucault. Samantalang iba naman ang para kay Stubbs na ang tuon o pokus ay
+pagsusuri sa teksto bagama’t hindi ikinahon sa isa (o higit pang) teoryang
+panlingguwistika. Nariyan din ang poststructuralist and postmodernist critiques of
+discourse nina Simons at Billig. Sa pahayag ni van Dijk, aniya, “discourse analysis
+provides us insights to pinpoint the everyday manifestations and displays of social
+problems communication and interaction” (7). Bagama’t ang pag-aaral ng abstract
+grammar, sophisticated formalisms, idealistic speech act theories ay umani ng respeto
+at paghanga mula sa mga iskolar ng akademya, sadyang napapanahong pag-aralan
+ang aktuwal na gamit ng wika at ikawing ito sa konteksto ng sitwasyon at institusyong
+panlipunan. Dahil ang pagkakaroon ng kalayaang pang-akademiko ay kasingkahulugan
+ng kalayaang magsuri at maging kritikal. Naniniwala si van Dijk na hindi sapat na
+ilarawan ang anyo ng mga salita sa mundo, kailangang pakilusin ang mga salita
+upang baguhin ang mundo (3). Taglay ng diskurso ang mensahe kung paano bibigyan
+ng hugis ang lahat ng bagay sa paligid lalong-lalo na ang imahen ng tao na may
+nakatakdang espasyo kung saan at paano lulugar sa lipunan. Kaya mahalaga ang
+papel ng CDA sa pagkakaroon ng Critical Language Awareness (CLA) upang maging
+malinaw sa bawat indibidwal ang pagsasalin ng ideolohiya sa pamamagitan ng wika.
+Bagama’t isang akademikong gawain ang pananaliksik tungkol sa wika, may kakayahan
+ang CDA na lumabas sa pisikal na estruktura ng akademya at umugat sa realidad na
+nagaganap sa lipunan. Dahil layunin ng CDA na ilarawan ang kontemporaneong buhay
+sa lipunan sa pamamagitan ng pagsusuri ng diskurso, at wika ang nagsisilbing
+instrumento. Naghain si Fairclough (96-98) ng konseptong may tatluhang-
+dimensiyon para isagawa ang CDA: bahagi ng [1] unang dimensiyon ang paglalarawan
+sa wikang ginamit sa teksto, pasalita, o pasulat (text analysis); [2] nakapaloob sa
+ikalawang dimensiyon ang pagbibigay ng kahulugan sa nakasanayang diskurso at
+proseso kung paano nabuo ang pasalita o pasulat na diskurso (process analysis); [3] sa
+huling dimensiyon ay ipinaliliwanag ang katangian o nilalaman ng pasalita at pasulat
+na diskurso na may kaugnayan sa kalagayang panlipunan (social analysis).
+
+Kasabay ng teoretikong balangkas ng CDA, ginamit din sa kasalukuyang pag-aaral
+ang Natural Language Processing o NLP bilang gabay sa pagsisiyasat sa wikang
+ginamit sa online community ng mga lesbiyana sa Facebook. Ayon kay Manning at
+Schütze, ang NLP ay isang sangay ng Computer Science na nauukol sa paghimay at
+pag-unawa sa nilalaman ng wikang sinusulat at sinasalita (binanggit nina Roxas, Oco,
+Cheng, Roldan, at Pablo 91). Pinadadali ng NLP ang pagsusuri gamit ang mga
+awtomatikong paraan upang higit na mapagyaman ang pagsusuri ng datos sa bawat
+dimensiyon ng CDA. Partikular na ginamit ang [1] mga regular expression, [2]
+language modeling, at [3] tag cloud.
+
+
+
+A. Jumaquio-Ardales, et al.
+
+51
+
+Tumutukoy ang mga regular expression sa mga anyo ng teksto na puwedeng gamitin
+para maghanap ng partikular na salita o pattern sa isang dokumento. Makapangyarihan
+ito dahil maaari itong gamitin para markahan at tanggalin ang isang pattern gamit
+lamang ang mga simbolo, letra, at numero (Kushman at Barzilay 827).  Bilang
+halimbawa, kung mano-manong kukunin ang mga post, sadyang makonsumo ito sa
+oras.  Kung iha-highlight naman lahat at kokopyahin, masasama rito ang mga simbulo
+na hindi kailangan kagaya ng halimbawa sa Pigura 2.
+
+Pigura 2. Halimbawa ng isang post na naka-highlight (kaliwa) at ang resulta kapag
+kinopya na ito sa isang word editor (kanan)
+
+Malaking bagay ang mga regular expression sa pagsusuri ng mga post sa Facebook
+dahil madaling tanggalin ang mga tekstong hindi kailangan (hal. oras at petsa).  Sa
+pamamagitan nito, kinuha ang nilalaman ng mga admin post, tinanggal ang mga hindi
+kailangan, at awtomatikong binilang ang mga ito. Sa pag-aaral na ito, ginamit ang
+isang partikular na program–ang Notepad++ na maaaring mai-download nang online
+(http://notepad-plus-plus.org/). Malaking tulong ang mga regular expression dahil
+naging mabilis at madali ang pagsasala ng kailangang datos. Halimbawa, ginamit ang
+markang [^] sa unahan ng salitang “Like”, at sinundan ng [.*]  kaya natanggal lahat ng
+“Like · Comment · Share”; ginamit naman ang markang [$] sa hulihan ng terminong
+“.*2014 ·” kaya natanggal lahat ng petsa (tingnan ang Tal. 1).
+
+Tal. 1. Halimbawa ng mga regular expression
+   Regular Kahulugan Hal imbawang gamit Katugmang pattern
+expression
+.* Kahit ano .*k Keyk
+
+(titik ‘k’ na kasunod ng kahit ano) Dakak
+
+^ Simula ng ^Like.* Like · Comment ·
+(lahat ng linyang nagsisimula sa Share
+“Like”)
+
+$ Dulo ng isang .*2014 ·$ September 20, 2014
+linya (lahat ng linyang nagtatapos
+
+sa “2014 ·”)
+
+
+
+52
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa Facebook
+
+Tumutukoy naman ang language modeling sa prosesong pagbilang sa mga salita at
+parirala sa isang dokumento (Pablo, Oco, Roldan, Cheng, at Roxas 207). Binubuo ito
+ng mga n-gram o mga parte ng isang pangungusap. Kapag isa lang ang parte, tinatawag
+itong unigram, bigram kung dalawa, trigram kung tatlo, at 4-gram kung apat. Bilang
+halimbawa, narito ang mga n-gram na mabubuo sa pangungusap na “kakain na tayong
+apat”:
+
+• unigram: kakain, na, tayong, apat
+• bigram: kakain na, na tayong, tayong apat
+• trigram: kakain na tayong, na tayong apat
+• 4-gram: kakain na tayong apat
+
+Tumutukoy naman ang tag cloud sa biswal na representasyon ng resulta ng language
+model sa anyong free form text (makikita ang halimbawa sa kasunod na mga pahina).
+Binubuo ang tag cloud ng mga salitang makikita rin sa language model. Mahalagang
+banggitin na ang mga salitang nakakuha ng mataas na bilang ng pagbanggit ay may
+malaking sukat kaysa ibang mga salitang nasa tag cloud. Ginamit sa pag-aaral na ito
+ang [1] Standford Research Institute Language Modeling toolkit o SRILM na maaring
+mai-download sa isang website (http://www.speech.sri.com/projects/srilm/) para
+gumawa ng mga language model gayundin ang [2] Wordle na maaaring maakses sa
+Internet (http://www.wordle.net/) para gumawa ng tag cloud.
+
+DISKURSONG ONLINE: Kl ik-suri sa identidad
+at komunidad ng mga lesbiyana
+
+Tatalakayin sa bahaging ito ang katangian ng diskursong online ng LESCOM.  Sinuyod
+ng mga mananaliksik ang kanilang Facebook page at natuklasang may 170 post
+simula Agosto 2013 hanggang Marso 2015.  Napansing may pinakamaraming post
+noong Nobyembre 2013 na naglahad ng kanilang mga pananaw at saloobin tungkol
+sa naganap na kalamidad sanhi ng bagyong Yolanda. Samantala, may buwan namang
+iisa lamang ang post katulad noong Marso at Disyembre 2014 (tingnan ang Pigura 3).
+Sa pag-aaral na ito, sinuri ang 170 post ng LESCOM bilang bahagi ng kanilang
+diskursong online na sumasalamin sa identidad at komunidad ng mga lesbiyanang
+nakabase sa Pilipinas.
+
+
+
+A. Jumaquio-Ardales, et al.
+
+53
+
+Pigura 3. Dami ng post ng LESCOM simula Agosto 2013-Marso 2015.
+
+Marka ng pagkakakilanlan ang emosyon ng tandang panamdam
+
+Batay sa datos, nakakuha ang panandang [!] ng pinakamataas na bilang sa mga unigram.
+Napansin ding higit na mataas ang bilang ng panandang [!] at panandang [?] kaysa
+bantas na [.] sapagkat wala ito sa 20 pinakamataas (tingnan ang Tal. 2).
+
+Tal. 2. Resulta ng language model ing: Unigram Dalas
+
+1 ! 240
+2 po 171
+3 sa 139
+4 .. 131
+5 : 93
+6 ) 90
+7 - 89
+8 ng 83
+9 mga 71
+
+10 ang 67
+11 na 64
+12 ? 61
+13 lescom 57
+14 .. . 42
+15 at 38
+16 and 37
+17 salamat 36
+18 lahat 34
+19 _ 32
+20 godbless 28
+
+Top 20
+
+Freq.Unigram
+Ranggo
+
+
+
+54
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa Facebook
+
+Sa pagsangguni sa Tal. 2, mapapansin ang 1-20 pinakamataas na unigram ay madalas
+na mga salitang pangkayarian at mga pananda. Pinatutunayan ng nakuhang datos
+mula sa Facebook page ng LESCOM ang isinagawang pag-aaral tungkol sa madalas
+na paggamit ng mga babae ng panandang [!], ayon kay Waseleski (1012):
+
+The notion that exclamation points function as markers of excitability
+can be traced in modern times to The Way Women Write, Mary Hiatt’s
+(1977) study of women and men’s writing styles. Extraordinarily
+ambitious for its time, Hiatt’s content analysis of 100 literary works
+incorporated the use of computers to determine whether a feminine
+writing style actually existed and, if so, how it differed from masculine
+writing style. Hiatt proposed that certain types of punctuation could be
+used as a yardstick to analyze qualities in the prose of women and men;
+for example, she held that “the frequency of use of exclamation points
+is one indicator of what might be called ‘emotionality’ or ‘excitability’.”
+(1977, p. 39), characteristics she believed were stereotypically
+associated with women.
+
+Ipinapaliwanag nito na ang paggamit ng tandang padamdam [!] ay nangangahulugan
+ng matinding emosyon kung saan dinodoble ang pagpapahiwatig sa mga post lalo
+pa’t umaasa sa mga non-verbal cue pagdating sa komunikasyon sa Facebook. Bilang
+halimbawa, kung sasabihing “Masaya ako!”, may mga isasaalang-alang para malaman
+ang emosyon ng isang post. Sinang-ayunan naman ito ng pag-aaral nina Hancock,
+Landrigan, at Silver (931):
+
+. . .the expresser’s linguistic dimensions that varied signif icantly across
+conditions (word count, negative affect, negations, exclamation points)
+prof ile as the predictor variables. . . The only signif icant linguistic
+dimensions in the model were negations and exclamation points,
+suggesting that these linguistic cues were relied on most heavily by
+assessors when judging their partner’s affective state.
+
+Sa mga post ng LESCOM admin sa kanilang Facebook page, ilan sa pinaggamitan ng
+panandang [!] ay ang mga sumusunod: karaniwang pagbati, pangungumusta, pagbati
+sa may kaarawan, paanyaya, pasasalamat, at pag-advertise ng kanilang mga proyekto
+(tingnan ang Tal. 3 para sa mga halimbawa). Nabibigyan ng diin ng mga non-verbal
+cue ang nais iparating ng admin sa paggamit ng tandang padamdam [!]. Nakita sa
+mga post na karaniwang marka ito bilang tanda ng pagkasabik o excitement sa kanilang
+diskursong online.  Kung mapapansin, nauulit ang paggamit ng tandang padamdam
+[!].  Kung tatanggalin ang mga nauulit, may 141 na bilang ito, at lumalabas pa rin na
+mas mataas ito kumpara sa bantas na [.].
+
+
+
+A. Jumaquio-Ardales, et al.
+
+55
+
+Ipinamalas ng nakuhang datos mula sa Facebook page ng LESCOM ang obserbasyon
+ni Herring tungkol sa katangian ng diskurso ng mga babae (binanggit ni Waseleski
+1021) na sa pagkakataong ito ay taglay rin ng mga lesbiyana: ang pagiging masuporta,
+ang madalas na pagpapahayag ng kagalakan at pasasalamat, at ang pagpaparamdam
+na bukas ang organisasyon sa lahat ng mga miyembro.
+
+Tinig ng makagrupong identidad ang mga salitang pangmaramihan
+
+Isa pang napansin sa pagsusuri ng teksto sa tulong ng language model ay madalas na
+paggamit ng LESCOM ng panghalip na pangmaramihan. Makikita sa Tal. 4 ang sampung
+panghalip na nakakuha ng mataas na bilang ng pagbanggit. Sa sampung ito,
+pinakamataas ang panghalip na ‘ating’ na nagpamalas ng tonong ingklusibo dahil sa
+mensaheng kabahagi o kasama at suportado ito ng salitang pangnilalaman na ‘lahat’
+na pangalawa sa ranggo. Ang iba pang panghalip pangmaramihan ay ‘nio, tyo, kyo,
+tyong, nten’. Tanging ang panghalip na ‘ko’ ang pang-isahan. Sa paggamit ng LESCOM
+ng mga panghalip pangmaramihan, ipinapakita ang katangiang tinatawag ni O’Connor
+na ‘other-involving’ na hinihimok ng nag-post ang iba pang miyembro na makiisa sa
+kanila (binanggit ni Kuo 31).
+
+Tal. 3. Paggamit ng tandang padamdam [!] sa post ng LESCOM
+Gamit Halimbawa ng mga post
+
+• goodmorning!what a rainy monday!:-)
+• magandang umaga po sa lahat!:-)
+• Magandang gabi po sa lhat!:-)
+
+Pangungumusta • KAMUSTA PO ANG LHT!!!
+
+Pagbati sa may • Happy bday Kagawad bonene!
+kaarawan • HAPPY BDAY [. . .] BEA WISH U ALL THE BEST!:-)
+
+Paanyaya /
+pagyaya sa • Swimming tayo!
+mga kasama
+
+• tnx counci mitch!!:-)
+• may gen miting po tyo mga kapatid this sunday i ji gm ko nlng po lht
+
+ng details slamat!!godbless!!:-)
+• Salamat po sa mga nakarating nung last sunday [. . .] asahan nio po n
+
+mkikiisa po [. . .] sa anumang proyekto niong ilulunsad salamat po!!
+
+Pag-advertise • GI NI MARE”-that’s my tomboy TOM NPO ANG OFFICIAL START AUDITION
+ng proyekto o SA KALAYAAN PARK 3PM-6PM PO IYAN. OPEN TO CAINTA, ANGONO,
+aktibidad BINANGONAN AND TAYTAY RESIDENTS. .GODBLESS!!:-)
+
+Pagbati
+
+Pasasalamat
+
+
+
+56
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa Facebook
+
+Ang mga panghalip sa unang panauhan katulad ng ‘ating’ at ‘tyo’ ay nanghihikayat sa
+iba pang miyembrong makiisa sa mga aktibidad ng grupo. Sa kabilang dako, nagpapakita
+naman ng distansiya ang mga panghalip sa ikalawang panauhan tulad ng ‘nio’ at ‘kyo.’
+Hinihiwalay ng ‘nio’ at ‘kyo’ ang sarili mula sa ibang tao (Håkansson 17) upang ipahayag
+ng admin ang kanilang hangaring maging organisado at patas sa pinamahalaang
+aktibidad.
+
+Batay sa nabuong tag cloud na ginamit ang mga piling unigram, awtomatikong
+lumabas na pinakamalaking salita ay ang pangalan mismo ng grupo, ang LESCOM
+(tingnan ang Pigura 4). Sa paggamit ng language model awtomatikong nakuha ang
+salitang LESCOM na may pinakamataas na bilang ng pagbanggit dahil ito ang
+pinakamadalas gamitin sa kanilang diskursong online.
+
+Atin 26 • magkakamiting po tyo regarding sa ating paliga. . .salamat!!:)
+
+Lht 23 • Final place kung saan tyo magkikita kita bukas prasa feeding
+program kalayaan park pra malapit na ang alm ng lht salamt
+wear [. . .] tshrt kpg wala pa kyo nun kht my print bsta black.8am
+kalayaan park see yah guys! Godbless!:-)
+
+Nio 22 • makipag cooperate po kyo sa bawat team nio SA BAWAT ISA
+SAINYO KPG NAGPATAWAG CLA NG PRAKTIS
+
+Tyo 19 • Maulan na nmn ingat po tyo!:-)
+
+Kyo 17 • kyo po ang mag uusap usap regarding sa praktis nio,uniform
+and whatsoever na mga dpt niong gwin dhil malapit napo ang
+ating “NO MAN’S BASKETBALL LEAGUE”. .mnsan lang to kya
+gwing nteng THE BEST OK MGA DUDE?GODBLESS!!:-)
+
+Tyong 12 • Pasko n mga kapatid anung blita sa bawat isa pro ang alm ko
+may xmas party kya this next sun inaasahan ko n complete
+tyong lht pra alam nio kung ano mga pagkakagastusan nten
+ok?
+
+Nten 12 • Gudpm guys! Again sa nde nkarating sa meeting pra sa liga
+nten.uulitin ko po per team po ay by colors.may registration po
+tyo pro mliit lng nmn xa perhead po bwat team then sa gagamitin
+niong sando jersey knya2 po kyong bili and 10p prasa pam
+paint n gagamitin ntenthen pkibgay sa jammers ky vice pra
+matatakan agd.
+
+Ko 11 • txt nio ko sa cp ko ok?tnx!!:-)
+
+Unigram       Dalas Halimbawa ng mga post
+
+Tal. 4. Ang mga panghalip na nakakuha ng mataas na bilang sa post ng LESCOM
+
+
+
+A. Jumaquio-Ardales, et al.
+
+57
+
+Nangibabaw ang pangalan ng organisasyong “LESCOM” at hindi nakapokus sa isang
+tao (hal. hindi pangalan ng kanilang presidente o sinumang opisyal) at sa kanilang
+170 post ay halos walang nakitang sentimyento, iringan o away, sa halip, mga mensahe
+ng suporta para sa grupo. Itinuring ang nabanggit na mga katangian bilang repleksiyon
+ng makagrupong oryentasyon ng kanilang diskursong online.
+
+Manipestasyon ng pamayanang ingklusibo
+ang madalas na pagbanggit ng pangalang personal
+
+Mapapansin sa paglipas ng panahon simula Agosto 2013 hanggang Marso 2015,
+lumago nang mahigit sa sampung doble ang dami ng likes sa mga post ng LESCOM.
+Makikita ang dami ng mga post, like, share, at comment sa Tal. 5. Kung iuugnay ang
+dami ng like sa mga comment, masasabing may direktang proporsiyon ang dami ng
+like sa naging mga komentaryo, partikular noong Oktubre 2014 at Marso 2015.
+Nagtugma halos ang dami ng like at comment ngunit mapapansing hindi naging
+makahulugan ang dami ng share. Batay sa datos, ang proseso ng pagpo-post ng
+LESCOM admin at pamamahagi nito sa pamamagitan ng pag-share ay walang
+direktang kinalaman sa isa’t isa. Napansing bukod sa pag-post ng mga teksto at mga
+larawan, wala masyadong meme, bidyo at iba pang nilalaman na ibinahagi ang LESCOM
+admin na maaaring maging viral. Kung hindi, pagbati, pangungumusta, pasasalamat,
+
+Pigura 4. LESCOM: Tag cloud ng mga terminong pinakamadalas gamitin sa kanilang
+diskursong online.
+
+
+
+58
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa Facebook
+
+at paanyaya (balikan ang Tal. 3), walang masyadong mga post na maaaring makahikayat
+sa mga kalahok tungo sa aktibong interaksiyon. Napansin ding may ilang mensaheng
+hindi para sa maramihan kundi paanyaya sa mga interesado sa personal na ugnayan.
+
+Gumamit ng isang pormula na makikita sa equation (1) upang makuha ang interaksiyon
+sa LESCOM. Mapapansin noong Marso 2015, naitala ang pinakamaraming interaksiyon.
+Ito rin ang buwan kung kailan may pinakamaraming like (23%) at comment (27%).
+Subalit, hindi sapat na mabilang ang dami ng interaksiyon bawat buwan upang ituring
+kung aktibo o hindi ang kanilang interaksiyon. Kinakailangan ding isaalang-alang ang
+dami ng post kaya kinuha ang korelasyon ng dalawa. Makikita sa equation (2) ang
+pormulang ginamit. Kung kukunin ang average, masasabing taong 2015 ang may
+pinakaraming interaksiyon bawat buwan: 3.48 ang average ng taong 2013,
+samantalang 33.61 ang taong 2014, at 62.91 ang taong 2015.
+
+Equation (1) : Interaction = Likes + Share + (Comment * 2)
+Equation (2) : Interaction per post = Dami ng post / Interaction
+
+Tal. 5. Dami ng posts, l ikes, shares, comments, interactions, at interactions
+per post sa Facebook page ng LESCOM, Agosto 2013-Marso 2015
+
+*ranggo: 1st, 2nd, 3rd
+
+2013 Agosto 21 85 2nd 5 3rd 37 164 7.81
+Setyembre 14 32 0 9 50 3.57
+Oktubre 8 9 0 1 11 1.38
+Nobyembre 29 52 1 12 77 2.66
+Disyembre 8 12 0 2 16 2.00
+
+2014 Enero 6 9 0 1 11 1.83
+Pebrero 6 25 0 0 25 4.17
+Marso 1 2 0 0 2 2.00
+Abril 2 11 0 0 11 5.50
+Mayo 2 5 0 0 5 2.50
+Hunyo 7 59 1st 7 3 72 10.29
+Hulyo 15 187  2 12 213 14.20
+Agosto 10 90 1 4 99 9.90
+Setyembre 12 3rd 279 0 24 3rd 327 27.25
+Oktubre 4 2nd 389 0 2nd 58 2nd 505 2nd 126.25
+Nobyembre 3 165 0  36 237 79.00
+Disyembre 1 165 0 9 183 1st 183.00
+
+2015 Enero 4  193 0 25 243 60.75
+Pebrero 5  237 0 3rd 37 311 62.20
+Marso 12 1st 590 3rd 4 1st 99 1st 792 3rd 66.00
+
+     Average Interaction
+2013 3.48
+2014 33.61
+2015 62.91
+
+Panahon Dami
+ng post
+
+Like Share Comment Interaction Interaction
+per post
+
+KABUUAN 170 2,596 20 369
+
+
+
+A. Jumaquio-Ardales, et al.
+
+59
+
+Dahil taong 2015 ang naitalang pinakamaraming interaksiyon, hinimay ng mga
+mananaliksik ang post at comment ng LESCOM sa taong 2015 upang maipakita kung
+ano ang nangyayaring interaksiyon sa online community ng mga lesbiyana sa
+panahong ito. Lumabas sa datos na ang kanilang diskurso ay nagpapahalaga sa
+indibidwal [AKO] na paglahok [JOIN] sa kanilang komunidad [LESBIAN COMMUNITY]
+na may partikular na atensiyon sa mismong mga tao sapagkat kapuna-punang
+maraming personal na pangalang lumabas sa tag cloud [JINKY, ALEX, KRISTINA,
+CYANDRO, MICHELLE, atb.] tingnan ang Pigura 5.
+
+Pigura 5. Tag cloud ng mga salita sa interaksiyon ng LESCOM noong Enero - Marso
+2015
+
+Batay sa datos ng Enero hanggang Marso 2015, kung kailan mataas ang interaksiyon
+sa kanilang online community, maituturing ang diskurso ng LESCOM na group-
+oriented dahil awtomatikong lumabas sa language model at isa sa mga lumutang sa
+tag cloud ang salitang ‘Lesbian Community’ bilang bahagi ng kanilang interaksiyon.
+Kaugnay nito, maituturing na ingklusibo ang kanilang diskursong online sapagkat
+kapuna-puna ang maraming pangalang lumabas sa tag cloud dahil sa madalas na
+pagbanggit ng mga personal na pangalan ng kanilang mga kasamahan sa proseso ng
+interaksiyon. Ang interaksiyong bumabanggit ng pangalan ng mga taong kausap ay
+sumasalamin sa katangian ng diskursong ingklusibo sapagkat naglalaan ng espasyo
+
+
+
+60
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa Facebook
+
+para sa lahat na mabanggit at kilalanin ang bawat pangalan. Mahalaga ito sapagkat
+ang pangalan ay sagisag ng pagkakakilanlan ng bawat tao sa anumang diskurso.
+
+Bahagi ng kanilang organisasyon ang pagmalay sa l ipunan
+
+Batay sa literatura, laganap noong dekada ‘40, ‘50, at ‘60 mula sa hanay ng mga
+manggagawa ang mga lesbiyanang kumikilos, nagsasalita, at nagbibihis tulad ng mga
+lalaki (butch) samantalang ang mga lesbiyanang nasa gitnang uri ay kumikilos,
+nagsasalita, at nagbibihis katulad ng mga babae (femme) (Nestle at Wilson; binanggit
+ni Goodloe 9). Subalit pagpasok ng dekada ‘70 hanggang sa kasalukuyan, lumabas
+ang iba’t ibang argumento tungkol sa role playing ng mga lesbiyana kasama na rito
+ang papel bilang butch.
+
+Kung pupuntahan ang Facebook page ng LESCOM, direktang makikita ang maraming
+imahen ng mga butch kaya masasabing komunidad ng mga butch ang naging kalahok
+sa pag-aaral. Ang organisasyon ng LESCOM ay nagsimulang mabuo sa isang barangay
+hanggang sa lumikha sila ng Facebook page. Mahalagang tukuyin na parehong umiiral
+ang kanilang offline at online community dahil sa ang mga larawang naka-post ay
+makikitang aktibo ang kanilang organisasyon hindi lamang sa social network ng
+Facebook kundi pati sa antas ng barangay.  Kung ang LESCOM ay organisasyon ng
+mga butch na may aktibong offline at online community, ano ang umiral na paksa sa
+kanilang diskursong online? Ano ang implikasyon nito sa lipunan/ pamayanang
+kanilang kinabibilangan?
+
+Katulad ng nabanggit sa gawing unahan, may 170 post sa Facebook page ng LESCOM
+simula noong Agosto 2013 hanggang Marso 2015. Sinikap himayin ang paksa ng
+diskurso sa loob ng 20 buwan (tingnan ang Tal. 6) sa pamamagitan ng paglalagay ng
+kategorya. Itinuring ng mga mananaliksik na [1] personal ang post kung ito ay mensahe
+tungkol sa/para sa isa o dalawang tao katulad ng pagbati ng ‘hapi bertdey,’ pagbibirong
+personal, atbp.; [2] pang-organisasyon kung tungkol sa pamamalakad ng grupo tulad
+ng mga paalala sa iskedyul ng miting, karaniwang pagbati sa mga kasama, atbp.; at
+[3] panlipunan/pamayanan kung ito ay may direktang pagkilos sa barangay o kaya
+mensaheng may kinalaman sa iba pang panig ng Pilipinas.
+
+Sa kabuuang 170 post, nanguna ang paksa tungkol sa pamamalakad ng kanilang
+organisasyon (69%), pumangalawa naman ang mga post na may kinalaman sa
+pamayanan/ lipunan (23.5%), at mapapansing hindi nila lubos na pinagtuunan ang
+personal na paksang eksklusibo lamang sa isa o dalawang tao dahil kaunti lamang
+ang post tungkol dito (7.5%). Sa pangkalahatan, ginugol ang malaking espasyo ng
+
+
+
+A. Jumaquio-Ardales, et al.
+
+61
+
+kanilang Facebook page sa pagbuo at pagpapatatag ng kanilang komunidad o
+organisasyon dahil ang 117 post ay tungkol sa mga pabatid, paalala, pagbati sa grupo,
+pasasalamat, paanyaya, at mga larawan ng grupo. Narito ang ilang halimbawa:
+
+• good aftie guyz!
+• Happy 1st anniv LESCOM family! God bless us all!! (-:
+• magkakamiting po tyo regarding sa ating paliga…salamat!!! (-:
+• morning guys! Hope everyone is f ine…tom npo ang ating feeding
+
+program walang malelate…wear ur uniforms…
+• To all LESCOM kindly check our page and groups account here in fb
+
+for some impt announcement.
+• pasko na mga kapatid anung blita sa bawat isa…may xmas party this
+
+next sun inaasahan ko n complete tyong lht…
+
+     2013 80 6 54 20
+Agosto 21 0 14 7
+Setyembre 14 0 10 4
+Oktubre 8 0 6 2
+Nobyembre  29 5 18 6
+Disyembre 8 1 6 1
+
+     2014 69 4 49 16
+Enero 6 0 6 0
+Pebrero 6 0 6 0
+Marso 1 0 1 0
+Abril 2 0 0 2
+Mayo 2 1 1 0
+Hunyo 7 0 5 2
+Hulyo 15 2 4 9
+Agosto 10 0 9 1
+Setyembre 12 1 10 1
+Oktubre 4 0 3 1
+Nobyembre 3 0 3 0
+Disyembre 1 0 1 0
+
+     2015 21 3 14 4
+Enero 4 0 4 0
+Pebrero 5 0 5 0
+Marso 12 3 5 4
+
+170 13 117 40
+(100%) (7.5%) (69%) (23.5%)
+
+Panahon
+Bilang
+
+ng Post Pampersonal
+Pang-
+
+organisasyon
+Panlipunan /
+
+Pampamayanan
+
+KABUUAN
+
+Tal. 6. Nilalaman ng mga post ng LESCOM sa kanilang Facebook page simula
+Agosto 2013 hanggang Marso 2015.
+
+
+
+62
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa Facebook
+
+Malinaw sa grupong ito ng mga butch na priyoridad ang diskursong pang-organisasyon
+(69%) sa kanilang online community. Nakita sa ilang halimbawang post na aktibo
+ang diskursong tungkol sa pag-oorganisa ng mga gawain at pagpapatatag ng kanilang
+samahan sapagkat “feeling connected to one’s community represents an extension
+of the fundamental human need to belong, is associated with positive individual
+and social outcomes (Baumeister & Leary 1995; binanggit nina Frost & Meyer
+2012), and is central to establishing collective identity” (Ashmore, Deaux, &
+McLaughlin-Volpe 2004; Gamson 1997; binanggit nina Frost & Meyer 2012). Naging
+aktibo ang kanilang diskurso sa mga gawaing sangkot ang kanilang organisasyon
+upang ipamalas ang hangarin nilang magkaisa para sa kolektibong identidad ng katulad
+nilang mga butch sa pamayanan. Mapatutunayan ito sa kanilang mga post katulad
+nito:
+
+• support po naten lht ng mga boit sa sumasali sa that’s my tomboy ng
+showtime at least napapancin na mga tulad naten…(-:
+
+• grabe kht my konting pressure nag-end pa rin kameng mga ok at
+masaya. . .
+
+• … sa muli sana po ay pakita naten ang ating pwersa ulit…salamat!!! (-:
+
+Ano nga ba ang mga gawaing inoorganisa ng grupong ito? Matatagpuan ang sagot
+kapag sinundan ang daloy ng diskurso sa kanilang Facebook page. Batay sa datos,
+pangalawang paksa na pinakamaraming post yaong may kinalaman sa lipunan/
+pamayanan (23.5%). Ang mga post na ito ay suportado ng kanilang mission statement
+na nakasulat mismo sa kanilang Facebook page, narito ang direktang sipi, “To help
+people, serve others, achieve goals, adhere and understand, f ight for our rights & no
+to descrimination!” Kung susuriin ang diskurso sa kanilang online community,
+matutunghayan na aktibo ang grupong ito ng mga lesbiyana sa pagtulong at pagdamay
+sa kapuwa na maaaring ipaliwanag ng naunang mga pag-aaral na, “women are
+physiologically predisposed to develop their powers of empathy earlier and more
+effectively than men” (Hall 1984; Rosenthal, Hall, DiMatteo, Rogers, & Archer 1979;
+mga pag-aaral na binanggit ni Degges-White 2012, 19). Sa katunayan, ang ilan sa
+kanilang mga gawain ay feeding program, pagsama sa Elderly Week of Senior Citizens,
+pamimigay ng mga relief good, pag-oorganisa ng medical mission, job fair, at
+pagtulong sa Oplan Kaluluwa. Bukod dito, mayroon din silang adbokasing panlipunan
+katulad ng Sagip-Kalikasan at Netizen’s Day Earth Jam Concert; at hindi nawala ang
+kanilang paglahok sa mga proyektong sumusuporta sa identidad ng mga lesbiyana sa
+pamayanan katulad ng pag-motorcade sa buong barangay at paligsahang ‘Pogi ni
+Mare.’ Ang katangian ng diskursong panlipunan/pampamayanan sa kanilang online
+
+
+
+A. Jumaquio-Ardales, et al.
+
+63
+
+community (23.5%) ay hindi lamang activity-oriented sapagkat mababakas din mula
+rito ang kamulatang pampamayanan. Narito ang ilan sa kanilang mga post:
+
+• …makasama na po namen kayo pra sa atin po itong lht… karapatan
+nating mga lesbians po ang ating isusulong…slamat! (-:
+
+• gandang hapon sa lahat umpisa n ng campaign ng brgy. elec. maging
+mapanuri po ang lahat!!! (-:
+
+Ang diskursong panlipunan sa kanilang online community ay hindi lamang limitado
+sa pagkilos sa barangay kundi may pagnanais ding makisangkot sa mas malawak na
+lipunan, narito ang halimbawang mga post:
+
+• mga kapatid, iniimbitahan qo kaung lahat…sama2 tau, ipakita naten
+ang Butch Power!!! Magbigay tayo ung para sa tacloban…
+
+• salamat po sa mga nakarating nung last Sunday….at sa ating mga
+naging bcita cla kgd. Buboy at mam che or chin2 ng alyansa ng
+kababaihan at youth affairs…asahan nio po na makikiisa po ang LESCOM
+sa anumang proyekto niong ilulunsad salamat po!!! God bless us all!!!
+
+Sa ganitong takbo ng usapan, hindi sentro ng diskurso sa kanilang online community
+ang tungkol sa mga personal post (7.5%) bagama’t may ilang nagsulat din ng
+mensaheng tulad nito na may kasamang mga litrato:
+
+• im stress!!!. . .sarap ng dinner ko
+(may kasamang litrato ng pagkain)
+
+• DALEN…WITH HER SPECIAL LOVE…(-:
+(may kasamang litrato ng isang LESCOM member at kanyang kasintahan)
+
+• bday ni 1st lady ni jha (-:
+(may kasamang litrato ng mismong selebrasyon ng bertdey)
+
+Batay sa pagsusuri ng diskurso sa online community ng LESCOM sa Facebook,
+natuklasang priyoridad nila ang pamamalakad ng organisasyon at pagpapanatili ng
+magandang samahan upang ipamalas sa pamayanan ang kanilang ‘butch power’ sa
+positibong paraan.  Sa likod ng mga pagkilos na ito ay naroon ang hangaring makiisa
+at lumahok sa mas malawak na lipunan dahil mababakas ito sa paksang kanilang
+pinag-usapan at prominenteng ginamit ang mga salitang ‘ATIN’ at ‘LAHAT’ na nagsilbing
+palatandaan ng inisyatibang pinalakas ng kanilang pagkakaisa kaya hindi
+nakapagtatakang nagawa nilang umigpaw palabas ng kanilang organisasyon upang
+
+
+
+64
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa Facebook
+
+makatulong sa pamayanan at masasalamin ito sa paglitaw ng salitang ‘BRGY,’ gayundin,
+ang terminong ‘JUAN’ bilang katawagan ng mga Filipino sa sariling bayan, ito ang
+mga salitang awtomatikong lumabas sa language model na direktang makikita sa tag
+cloud (tingnan ang Pigura 6).
+
+Pigura 6. Tag cloud ng mga salita kaugnay ng mga paksa sa diskurso ng LESCOM.
+
+KONGKLUSYON
+
+Sa kabuuan, dalawa ang naging ambag ng pag-aaral na ito, ang paggamit ng
+makabagong metodo sa pananaliksik sa wika at ang pagbasag sa de-kahong imahen
+ng mga lesbiyana. Napatunayan sa pag-aaral na ito ang pakinabang sa paggamit ng
+kompyuter upang maiproseso nang mabilisan ang malakihang datos mula sa Internet
+katulad sa Facebook.  Nakapagsagawa ng sistematikong hakbang upang makakuha ng
+sample data mula sa cyberspace kaya naibalangkas ang Browsing-Linking-
+Shortlisting-at-Focusing (BLSF).  Ginamit ang awtomatikong paraan sa pagbuo ng
+language model na ipinakita naman sa mga tag cloud kaya obhetibong naihain ang
+umiral na pattern sa nakonsumong mga salita sa diskursong online. Kinilalang hindi
+sapat ang Natural Language Processing o NLP sa pagsusuri ng datos kaya ginamit
+ang Critical Discourse Analysis sa napapanahong paglalarawan ng paggamit ng wika
+sa lipunan. Kaugnay nito, ang pangalawang ambag ng pag-aaral na basagin ang de-
+kahong imahen ng mga lesbiyana, partikular ang imaheng ‘macho’ ng mga butch.
+
+
+
+A. Jumaquio-Ardales, et al.
+
+65
+
+Natuklasan sa pagsusuri ng datos na katulad din ng babae ang mga butch ng LESCOM
+sa pagpapahayag ng emosyon para sa pagkasabik at pagsuporta sa isa’t isa. Bukod
+dito, ang mga lesbiyana na minarkahang seloso/selosa ng lipunang Filipino ay
+kabaligtaran sa katangiang ipinamalas ng mga butch sa organisasyon ng LESCOM.
+Nakitang hindi nakatuon sa sarili ang mga lesbiyana ng LESCOM kundi nakakiling sa
+grupo, barangay, at lipunan ang kanilang diskursong online.  Bahagi ng adyenda ng
+kanilang offline at online community ang kolektibong identidad na may kamalayang
+panlipunan na hindi limitado sa mga intensiyong personal (hal. magkaroon ng
+karelasyon sa buhay). Malinaw na ipinamalas ng mga lesbiyana ng LESCOM ang
+pakinabang ng ‘butch power’ sa kanilang barangay bilang bahagi ng mas malawak na
+sistema ng lipunang Filipino.
+
+PAGKILALA
+
+(1) Ikinalulugod ng mga mananaliksik ang pagbigay ng permiso ng LESBIAN
+COMMUNITY  ORGANIZATION (LESCOM) upang masuri ang kanilang Facebook page.
+
+(2) Kinikilala ang pagbabahagi ng idea ni RANDY NOBLEZA sa papel na ito.
+
+(3) Pinasasalamatan ang suportang ibinigay ng National University Research and
+Innovation Off ice (project no. CCS 2015-03-1S) sa pag-aaral na ito.
+
+SANGGUNIAN
+
+Chouliaraki, Lilie & Norman Fairclough. Discourse in Late Modernity. Rethinking Critical
+Discourse Analysis. Edinburgh: Edinburgh UP. 1999. Limbag.
+
+Degges-White, Suzzette. “Lesbian Friendships: An Exploration of Lesbian Social Support
+Networks.” Adultspan Journal 11.1 (2012): 16-26. Limbag.
+
+Fairclough, Norman. Critical Discourse Analysis. The Critical Study of Language. New York:
+Longman, 1995. Limbag.
+
+Frost, David at Ilan Meyer. “Measuring Community Connectedness among Diverse Sexual
+Minority Populations.” Journal of Sex Research 49.1 (2012): 36-49. Limbag.
+
+Goodloe, Amy. “Lesbian-Feminism and Queer Theory: Another Battle of the Sexes.” Amy
+Goodloe. Web. 14 Abril 2015.
+
+Goodloe, Amy. “Lesbian Identity and the Politics of Butch-Femme.” Amy Goodloe. Web. 14
+Abril 2015.
+
+
+
+66
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa Facebook
+
+Håkansson, Jessica. “The Use of Personal Pronouns in Political Speeches: A comparative
+study of the pronominal choices of two American presidents.” Pinal na papel sa
+kursong English Linguistics. Linnaeus University, 2012. Limbag.
+
+Hall, Joanne. “Tomboys: Meanings, Marginalization, and Misunderstandings.” Mental Health
+Nursing 29.6 (2008): 555-565. Limbag.
+
+Hancock, Jeffrey, Christopher Landrigan, and Courtney Silver. “Expressing Emotion in Text-
+based Communication.” CHI 2007. 28 Abril – 03 Mayo 2007, San Jose, CA. ACM’s Special
+Interest Group on Computer-Human Interaction, 2007. Limbag.
+
+Kouloumpis, Efthymios, Theresa Wilson, at Johanna Moore. “Twitter Sentiment Analysis: The
+Good, the Bad and the OMG!” 5th International AAAI Conference on Weblogs and
+Social Media. 17-21 Hulyo 2011, Barcelona, Spain. Association for the Advancement
+of Artif icial Intelligence, 2011. Limbag.
+
+Kuo, Sai-Hua. “From Solidarity to Agonism: The Uses of the Second-person Singular Pronoun
+in Chinese political discourse.” Text 22.1 (2002): 29-55. Limbag.
+
+Kushman, Nate at Regina Barzilay. “Using Semantic Unif ication to Generate Regular
+Expressions from Natural Language.” NAACL-HLT 2013. 09-14 Hunyo 2013. Atlanta,
+Georgia. Association for Computational Linguistics, 2013. Limbag.
+
+Marchbank, Jennifer at Gayle Letherby. “Introduction to Gender: Social Science Perspectives.”
+London: Routledge. 2014. Limbag.
+
+Oco, Nathaniel, Leif Romeritch Syliongka, Joel Ilao, at Rachel Edita Roxas. “Dice’s Coefficient
+on Trigram Prof iles as Metric for Language Similarity.” 16th Oriental COCOSDA. 25-
+27 Nobyembre 2013, Gurgaon, India. Oriental COCOSDA, 2013. Limbag.
+
+Pablo, Zelinna, Nathaniel Oco, Ma. Divina Gracia Roldan, Charibeth Cheng, at Rachel Edita
+Roxas. “Toward an enriched understanding of factors influencing Filipino behavior
+during elections through the analysis of Twitter data.” Philippine Political Science
+Journal 35.2 (2014): 203-224. Limbag.
+
+Said, Edward. Orientalism. Nabanggit sa Chouliaraki, Lilie & Fairclough, Norman. Discourse
+in Late Modernity. Edinburgh: Edinburgh UP. 1999. Limbag.
+
+Simons, H. & M. Billig. After postmodernism. Reconstructing ideology critique. Nabanggit sa
+Chouliaraki, Lilie & Fairclough, Norman. Discourse in Late Modernity. Rethinking Critical
+Discourse Analysis. 7. Edinburgh: Edinburgh UP. 1999. Limbag.
+
+Stubbs, Michael. Discourse Analysis. The Sociolinguistic Analysis of Natural Language. Chicago:
+U of Chicago P. 1983. Limbag.
+
+Szulc, Lukasz at Alexander Dhoest. “The Internet and Sexual Identity Formation: Comparing
+Internet Use Before and After Coming Out.” Communications - The European Journal of
+Communication Research 38.4 (2013): 347-365. Limbag.
+
+
+
+A. Jumaquio-Ardales, et al.
+
+67
+
+Waseleski, Carol. “Gender and the Use of Exclamation Points in Computer-Mediated
+Communication: An Analysis of Exclamations Posted to Two Electronic Discussion
+Lists.” Journal of Computer-Mediated Communication 11.4 (2006): 1012-1024. Limbag.
+
+Van Dijk, Teun. Introduction: The Role of Discourse Analysis in Society. Nasa Van Dijk, Teun
+(Ed.), Discourse Studies: A Multidisciplinary Introduction 2 (1985d): 1-37. London: SAGE.
+Limbag.
+
+_____________
+
+Alona Jumaquio-Ardales <alona.ardales@dlsu.edu.ph> is a faculty member of the
+Filipino Department, College of Liberal Arts, De La Salle University, Philippines.
+She obtained her Ph.D. in Philippine Studies from the same university. She handles
+Filipino-GE courses and undergraduate thesis mentoring. She served as a language
+teacher for the Advanced Filipino Abroad Program (AFAP) of the University of
+Hawaii (1997, 2005) and became an exchange scholar at SEASSI, UW, Madison, USA
+(2009). She was a recipient of an Outstanding Teacher Award from De La Salle
+Canlubang (2009) and was an active faculty volunteer in the school’s Social Action
+Program, Student Leadership Training, and College Student Counselling (2005-
+2012). She received a recognition from the Komisyon sa Wikang Filipino with her
+essay titled “Ang Diskurso sa Sariling Wika: Daluyan ng Daang Matuwid” (2013).
+She had published articles in MALAY, an international refereed and abstracted journal
+in Philippine studies.
+
+Rowell Madula <rowell.madula@dlsu.edu.ph>, <rmadula@gmail.com> is an
+associate professor of De La Salle University - Manila. He obtained his Bachelor’s
+degree in Legal Management from the Ateneo de Manila University. He took up his
+Master’s degree (with high distinction) and Doctoral degree (Outstanding
+Dissertation) in Philippine Studies at the De La Salle University respectively. He
+co-authored the books Ekonomiks sa Filipino (Economics in Filipino) and To Write is
+to Choose: Ang Kasaysayan ng College Editors Guild of the Philippines:  1931-1972.
+He is the Vice Chairperson and the program coordinator of the Filipino Department.
+He teaches courses on pop culture, research, Philippine studies, literature and history
+in the graduate and undergraduate levels. He is the Managing Editor of the Malay, an
+international refereed and abstracted journal in Philippine Studies.
+
+
+
+68
+
+Klik-Suri sa Online Community ng mga Lesbiyana sa Facebook
+
+Nathaniel Oco  <nathanoco@yahoo.com>  is a member of the Asian Association for
+Lexicography (AsiaLex), and the current chair of the Computing Society of the
+Philippines – Special Interest Group on Natural Language Processing where he
+actively participates in the organization’s yearly National Natural Language
+Processing Research Symposium (NNLPRS). Knowledgeable in both rule-based and
+statistical approaches, his research interest lies in natural language processing,
+computational linguistics, and social computing. He is the corresponding author of
+this article.
+
+

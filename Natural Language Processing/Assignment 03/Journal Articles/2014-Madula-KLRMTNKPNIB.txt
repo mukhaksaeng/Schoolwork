@@ -1,0 +1,2292 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Malay 26.1 (2014): 104-116
+
+Copyright © 2014 by De La Salle University
+
+Ka Laya: Rampadora 
+Mga Tala ng Kakaibang Pagrampa ng Isang Bakla /
+Ka Laya: Rampadora
+Notes on a Different Rampage of a Homosexual
+
+Rowell D. Madula
+Pamantasang De La Salle-Manila
+rmadula@gmail.com
+
+Sa pamamagitan ng pangangalap ng kuwentong buhay ng isang baklang aktibistang 
+nagpasiyang maging miyembro ng mga lihim na kilusang Communist Party of the Philippines 
+(CPP), National Democratic Front of the Philippines (NDFP) at New People’s Army (NPA), 
+tinalunton ng pag-aaral na ito ang pagsasakasaysayan ng kakaibang uri ng pagrampa. Sinubukan 
+ng pag-aaral na ito na tingnan ang rampa upang isalarawan ang paglalakbay na pinagdaanan ng 
+isang bakla na kakaiba sa konsepto ng pagrampang karaniwang inuugnay sa mga bakla. Makikita 
+sa papel ang mga hamon at oportunidad na kinakaharap ng isang bakla sa pagsusulong ng tunay 
+na paglaya mula sa mga politikal at ekonomikong kasabay ng mga pangkasariang tunggalian. 
+
+Mga Susing Salita:  bakla, Communist Party of the Philippines (CPP), National Democratic 
+Front of the Philippines (NDFP), New People’s Army (NPA), rampa, aktibista, komunista 
+
+A new denotation of the word ‘rampa’ (rampage) has been identified through the life story 
+of a homosexual male who joined the Communist Party of the Philippines (CPP), National 
+Democratic Front of the Philippines (NDFP) and New People’s Army (NPA). This study has 
+attempted to use ‘rampa’ in describing a gay man’s journey- from liberating one’s self from 
+machismo to struggling to liberate a society from the chains of the dominant political and 
+economic system. 
+
+Keywords: homosexual, Communist Party of the Philippines (CPP), National Democratic 
+Front of the Philippines (NDFP), New People’s Army (NPA), rampage, activist, communist
+
+
+
+105Ka Laya:Rampadora R. Madula
+
+Rampa. Makahulugan ang salitang ito sa mundo 
+ng mga bakla. Ang mga modelo, rumarampa sa 
+entablado upang ipakita ang kagandahan ng 
+isang likhang kasuotan; samantala, ang mga 
+pangkaraniwang tao, rumarampa sila upang 
+ipagyabang ang bagong biling damit, sapatos, 
+abubot sa katawan, o kaya’y ang guwapo o 
+magandang syota. Para sa mga bakla, ang 
+pagrampa ay hindi lamang paglalakad-lakad suot 
+ang magandang damit o ang mga kolorete sa 
+katawan, kundi ito ay isang akto ng paghahanap. 
+Sa bawat pagrampa ng mga bakla, ito ay 
+may kaakibat na pag-asang may matitisod at 
+masusumpungang pag-ibig o kaya’y panandaliang 
+kaligayahan. 
+
+Maituturing na isang paglalakbay ang pagrampa 
+ng mga bakla. Kasama ng mga kapwa bakla, at 
+minsa’y ng mga barkadang babae, rumarampa ang 
+mga bakla sa madidilim na eskinita, sa pagal na 
+mga kalsada. Sa Pilipinas kung saan ang piyudal 
+at machong lipunan ay isinasalaylayan ang mga 
+bakla, marami sa kanila ang patuloy na naghahanap 
+ng mga puwang at lunan kung saan maipapahayag 
+ang kanilang tunay na nararamdaman. Hindi 
+alintana ang panganib na maaaring makaharap, 
+maraming bakla ang umaasang sa kanilang 
+pagrampa, may matatagpuan silang pagkalinga 
+sa kanilang mga kakaibang rampahan: sa malls, 
+sinehan, construction sites, parke, tabing-dagat. 
+
+Pinaghahandaan ang bawat pagrampa. 
+Kinakailangang tama ang kasuotan, yaong 
+makakakuha ng kaukulang atensiyong hinahanap. 
+Ang oras ng pagrampa ay yaong madilim na ang 
+gabi pero may sapat pang liwanag upang makilatis 
+ang mga taong makakadaupang-palad. Hangga’t 
+maaari ay hindi dapat mag-isang rarampa, 
+magsama ng barkada. Tinitiyak din ang mga 
+lugar na nirarampahan, dapat ay may mga taong 
+makakakita ng pagrampa, hindi maituturing na 
+pagrampa ang walang manonood sa pagtatanghal 
+ng sarili. At siyempre, may baong pag-iingat, 
+hindi lamang sa masasamang loob, kundi sa mga 
+pulis na naghahanap ng bagansiya. 
+
+Sa lengguwahe ng mga bakla, ang rampa 
+ay ikinakahon ang karanasan ng mga bakla sa 
+pagtatanghal ng sarili bilang bahagi ng isang 
+
+komunidad. Ang diskriminasyong nararanasan 
+ng mga bakla ang patuloy na naglalagak sa 
+kanila patungo sa madidilim na daan ng ating 
+lipunan. Iniuugnay ito sa paglalakad-lakad ng 
+mga bakla upang maipakita ang kanilang tunay na 
+nararamdaman, mga aspirasyon at kagustuhan sa 
+buhay, ang kanilang mga pagnanasang kaakibat ng 
+kasarian at seksuwalidad. Marami ang maaaring 
+matagpuan sa pagrampa ng mga bakla, maaaring 
+bagong kakilala, kabarkada, kaibigan.
+
+Kuwentong-Buhay, Kuwento ng Pagrampa
+
+Bilang isang pag-aaral na nagbibigay-larawan 
+sa karanasang mayroon ang mga bakla sa 
+rebolusyon mula sa kanilang karanasan, ginamit 
+ng mananaliksik ang lapit ng kuwentong buhay 
+na sa kasalukuyan ay patuloy na pinauunlad 
+sa larangan ng Sikolohiya. Ang metodong ito, 
+ayon kay Clemen Aquino sa kanyang artikulong 
+”Pagbabahagi ng Kuwentong Buhay: Isang 
+Panimulang Pagtingin” ay lumago noong dekada 
+’90. Sa konteksto, halimbawa, ng perspektibang 
+feminista, ”may pagpapahalagang maiaambag ang 
+lapit ng kuwentong buhay tungo sa pagbibigay 
+ng kaukulang puwang sa mga kababaihan at iba 
+pang marhinalisadong sektor ng ating lipunan. 
+Kabilang dito ang pagbibigay-pansin sa kanilang 
+karanasan, tinig, at pananaw, ang paglalaan ng 
+pagkakataon upang higit nilang maunawaan 
+ang kanilang sarili sa konteksto ng kanilang 
+mga relasyon at lipunang ginagalawan... At 
+dahil sinasapol ng kuwentong buhay ang aktwal 
+na karanasan ng isang indibidwal, inaasahang 
+makapag-aambag din ito sa pagpapaunlad at 
+pagbubuo ng kaalamang panlipunan (38).” 
+
+Isa sa mga naging batayan sa pagsasagawa ng 
+metodong ito ay ang isinakatuparang pananaliksik 
+ni Rosalinda Pineda Ofreneo tungkol sa mga 
+kababaihang manggagawa sa bahay. Dahil sa ito 
+ay may kinalaman sa kababaihan, naging malay 
+si Ofreneo sa pakikinig at pagsusuri sa tinig ng 
+nagkukuwento, hindi lamang bilang manggagawa 
+kundi bilang isang babae. “Ang kuwentong buhay 
+ay isang pasalaysay na teksto na ang layunin 
+ay maitala ang kabuuang karanasan sa buhay 
+
+
+
+106 Malay Tomo XXVI  Blg. 2
+
+ng nagsasalaysay mula sa simula hanggang sa 
+mismong panahon ng pakikipanayam. Ito ay 
+sumasaklaw hindi lamang sa kung kailan at kung 
+bakit sila naganap, kundi pati na ang paghusga sa 
+mga ito upang mabigyang-kahulugan at katwiran 
+ang isang partikular na karanasan ng buhay (13).” 
+Ang kanyang isinagawang paraan ng paglalahad 
+ng kuwentong buhay ng mga manggagawa sa 
+bahay ang siyang naging batayan sa paglalahad 
+na isinagawa rin ng mananaliksik.
+
+Ayon naman kay Roberto Javier, Jr., sa  kanyang 
+artikulong “Pangpamamaraang Kaangkinan 
+ng Pakikipagkuwentuhan,” napakahalaga 
+ng kuwentuhan bilang “isang okasyon ng 
+pagpapalitan ng kaalaman, kaisipan, iniisip, at 
+indibidwal na karanasan (1).” Tinalunton niya ang 
+pag-unlad ng pakikipagkuwentuhan bilang isang 
+metodo sa larangan ng sikolohiya. “Ang katatagan 
+at katapatan ng mga datos ay naitatakda naman 
+ng lalim ng ugnayang napauunlad sa pagitan ng 
+mananaliksik at mga kalahok sa pag-aaral. Kaya 
+kung ang pakikipagkuwentuhan ay nahahagilap 
+mula sa kultura ng kuwentuhan, ang pagsusuri sa 
+proseso ng pagtutunguhan ang siyang maglalahad 
+kung anong antas ng interaksiyon at uri ng 
+relasyon ang magtitiyak sa mga kaangkinang 
+pangmetodo nito.” Sa susunod na bahagi ay 
+tatalakayin ng mananaliksik ang naging aktuwal 
+na pagsasagawa ng pakikipagkuwentuhan bilang 
+metodo sa kanyang pag-aaral. 
+
+Ang Rampa bilang Teorya
+
+Sa larangan ng pambansa-demokratikong 
+rebolusyon, may tatlong pangunahing larangan 
+na binibigyang-pansin ng lahat ng aktibista’t 
+komunista- ang organisasyonal, politikal, 
+ideolohikal. Ang pag-angkin ng espasyo sa loob 
+ng kilusan ay nakakonteksto sa pakikipag-ugnayan 
+ng mga bakla sa kanilang kapwa aktibista’t 
+komunista na kumikilos din at nagpapaunlad ng 
+kanilang organisasyonal, politikal, at ideolohikal 
+na larangan. 
+
+Sa pag-aaral na ito, nakita ng mananaliksik 
+ang pagtingin sa salitang rampa na pangngalan at 
+pandiwa bilang lente sa pag-unawa sa espasyong 
+
+bakla. Ang espasyong bakla na matatagpuan sa 
+iba’t ibang espasyo sa ating lipunan tulad ng mga 
+institusyon, lugar, pangyayari, organisasyon at 
+sa ating kasaysayan. Nakita ng mananaliksik na 
+ang mga bakla ay  maituturing din na rumarampa 
+sa kanilang pakikilahok at pakikibahagi sa 
+pagsusulong ng pambansa-demokratikong 
+rebolusyon. 
+
+Ang rampa ayon sa diksyunaryo ng wikang 
+Filipino ay tumutukoy sa anumang bagay na 
+nagdurugtong sa dalawang antas o kaya’y gilid 
+ng lansangan para maging daanan ng tao. Sa 
+isinagawang pag-aaral makikita ang mga nakalap 
+na kuwentong buhay bilang siyang naging tulay 
+sa pagtuklas sa karanasan ng mga bakla bilang 
+mga bakla, at partikular sa pag-aaral na ito bilang 
+mga baklang aktibista’t komunista. Ang mga 
+kuwentong buhay ang nagsisilbing tagapaglahad 
+ng mga pinagdaanan ng mga bakla sa loob at 
+labas ng kilusan. 
+
+Samantala, ang pagrampa sa gamit ng 
+mga bakla sa kasalukuyang panahon ay ang 
+akto ng paglalakad-lakad o pagpunta sa isang 
+lugar upang maghanap ng mga taong kanilang 
+makakaulayaw. Maaaring rumarampa ang mga 
+bakla sa kalsada, sa mga construction sites, sa 
+malls, sa dalampasigan, at sa iba pang lugar na 
+karaniwang may makakasalamuhang tao, may 
+makikilala, may makikita, at kung saka-sakali 
+ay may makakaulayaw na kapwa naghahanap 
+din. Ang akto ng pagrampa ay tulad din ng isang 
+paglalakbay.
+
+Si Laya, ang Rampadora
+
+Gaya ng maraming pagpapakilala, nagsisimula 
+ang lahat sa unang pagtatagpo. Taong 2003, 
+bagong gradweyt ako sa kolehiyo, bagong 
+aktibista. Mula sa isang Katoliko at prestihiyosong 
+unibersidad sa Kamaynilaan, maraming bago 
+sa akin sa larangan ng aktibismo. Bagama’t 
+iminumulat kami ng aming pamantasan na maging 
+“tao para sa kapwa,” may natatanging kultura para 
+sa aking pagtingin ang mga aktibista. Isa sa mga 
+unang nakapukaw ng aking paningin ay si Laya. 
+
+
+
+107Ka Laya:Rampadora R. Madula
+
+Bakla si Laya. Baklang aktibista. Marami 
+akong tanong ukol sa kabaklaan, sa kultura at 
+kahulugang bitbit nito. Para sa isang kabataang 
+binubusog ng midya ng mga imahen ng kabaklaan, 
+iniisip ko pa rin kung mayroon bang baklang Ita, o 
+Muslim, o kaya’y pulis, at kung mayroon, paano 
+sila namumuhay, paano tinatanggap ng kanilang 
+mga kasamahan? Ang tingin ko sa mga aktibista, 
+laging seryoso, parang laging galit. Kaya’t sa 
+mga unang karanasan ko bilang aktibista, lagi’t 
+lagi akong pinamamangha ng mga kasamang 
+aktibistang bakla. Para sa isang kilusang dapat ay 
+GnD (grim and determined) ang mga tao, mayroon 
+palang puwang ang mga bakla. Sa telebisyon at 
+mga pelikula kasi, iniistiryotayp ang mga bakla: 
+kung hindi komedyanteng binabatuk-batukan, 
+isa siyang bugaw o parokyano ng mga kabataang 
+lalaking nagbebenta ng aliw. Dahil dito, maraming 
+kabataang bakla ang pinipigilan ang kanilang 
+sarili na magpakabakla o isabuhay ang kanilang 
+kabaklaan, maging sa kilusan. 
+
+Hindi ko na maalala kung paano at kailan ko 
+unang nakilala si Laya. Ang mahalaga, nakilala 
+ko siya. Humanga ako sa kanyang husay sa sining 
+ng pag-arte at pag-awit. Gayundin sa kanyang 
+sigasig sa pagkilos bilang aktibista. Ilang beses 
+ko rin siyang nakasama sa mga komperensiya at 
+mga kilos-protesta. At sa mga pagkakataon na 
+aming pinagsaluhan, nangako akong isusulat ko 
+ang kuwento ni Laya. Sa kanyang pagsama sa mga 
+rally sa kalsada, para na rin siyang rumarampa. 
+Ngunit kakaibang pagrampa ito. May hinahanap 
+din siya sa tuwing siya ay rumarampa. Ngunit 
+kakaibang paghahanap ito. Binabasag ni Laya ang 
+mga istiryotayp na nakakabit sa salitang bakla at 
+sa salitang rampa. 
+
+Taong 2005 nang hindi na lamang sa mga kalye 
+ng Kamaynilaan rumarampa si Laya. Nagpasiya 
+siyang sumapi sa New People’s Army (NPA) 
+at magsilbi sa mga mamamayan bilang hukbo. 
+Doon sa masusukal na kagubatan at matatarik na 
+kabundukan ipinagpatuloy ni Laya ang pagrampa. 
+Minsan ko na siyang nakita sa isang probinsiya, 
+bahagyang lumaki ang kanyang tiyan na aakalain 
+mong buntis, pero siya pa rin ang Laya na kilala 
+ko. Inilibre ko siya sa pagkain, at ibinili ng isang 
+
+bago na lumang damit sa ukayan. Naibahagi ko sa 
+kanya ang pagnanasang maitampok ko siya sa isa 
+sa mga artikulo, na kanya namang pinaunlakan sa 
+susunod na pagkikita. Kung kailan at saan, kapwa 
+namin hindi alam.
+
+Hanggang sa dumating ang pagkakataon 
+na siya ay bumalik sa Kamaynilaan upang 
+magpahinga. Itinakda namin ang lugar at oras ng 
+pagkikita. Maaga akong dumating sa lugar, alam 
+kong wala siyang cellphone, kaya mas mabuti 
+nang ako ang maghintay at mag-alala, siya naman 
+kasi itong dapat na may baong isang sako ng pag-
+iingat sa katawan sa halip na ako. Dumating si 
+Laya. Nagpaunlak ang isa kong kaibigan na gawin 
+ang panayam sa kanyang tinitirhan. Hindi naman 
+maaaring pag-usapan namin ni Laya ang tungkol 
+sa kanyang kabaklaan at pagiging NPA kahit pa 
+sa pinakasosyal na coffee shop sa Kamaynilaan. 
+
+Kasama ng ilang istik ng sigarilyo, ilang baso 
+ng Coke, ng mga tawanan at seryosong usapan, 
+narito ang ilang tala ng kakaibang pagrampa ni 
+Laya, ang kakaibang rampa ng isang bakla. 
+
+Unang Tala: Rampa sa Kalungsuran
+
+ “Taglay ko ang puso ng isang bakla,” 
+hayagan niyang sinabi. “isa akong baklang 
+rebolusyonaryo.”
+ Nagmula si Ka Joan sa isang pamilyang 
+magsasaka sa Cagayan de Oro. Nilisan niya 
+ang kanilang tahanan may 13 taon na ang 
+nakararaan at nagtrabaho sa isang nightclub sa 
+Maynila, una bilang wardrobe aide (tagaayos 
+ng mga isusuot) ng dalawang mananayaw, na 
+halos kumupkop sa kanya. Pagkatapos, naging 
+floor manager (tagaasikaso sa mga parokyano) 
+siya ng club.
+ Noong 17 taong gulang si Ka Joan, 
+nagbakasyon siya sa isang maliit na bayan sa 
+Bulacan kung saan nakilala niya ang isang 
+organisador sa komunidad. Matapos ang ilang 
+buwan, tumigil siya sa paghahanapbuhay at 
+naging buong-panahong organisador na rin ng 
+maralitang-lungsod. “Naisip kong kailangang 
+may gawin ako para sa mamamayan at mga 
+kapwa ko bakla para ipaglaban nila ang 
+kanilang mga karapatan.”
+
+
+
+108 Malay Tomo XXVI  Blg. 2
+
+ Matapos ang ilan pang buwan ay inatasan 
+si Ka Joan na tumulong sa pag-oorganisa 
+sa maralitang-lungsod sa isang siyudad sa 
+Cagayan Valley. “Napakainit ng pagtanggap 
+sa akin ng masa doon,” pagbabalik-tanaw 
+niya. Wala pang organisasyon ng kabataan 
+sa lungsod, kaya inatasan siyang simulan ang 
+pag-oorganisa ng kabataan doon. Di nagtagal, 
+itinatag nila ang balangay ng Kabataang 
+Makabayan (KM), bukod sa iba pang legal na 
+organisasyon ng kabataan.”
+
+“Ka Joan: Kakaibang Mandirigma” mula sa 
+Ang Bayan, 
+
+Regular na Isyu, Taon XXXV, Blg. 6, 
+21Marso, 2004.
+
+Bata pa lamang si Laya ay tinutukso na siyang 
+bakla ng mga kalaro. Bagama’t maging siya ay 
+nakararamdam ng “kakaibang damdamin” at 
+nakikita na niya ang mga tendensiya ng kabaklaan, 
+sinubukan pa ring labanan ni Laya ang kanyang 
+tunay na pagkatao. “Alam mong noong bata 
+ka, kapag sinabing bakla ka, bawal ‘yon,” ayon 
+sa kanya. Binitbit ni Laya ang bagaheng ito 
+hanggang sa siya ay maging binatilyo. Dumaan 
+siya sa tinatawag ng maraming bakla na confusion 
+stage.
+
+“Pangalawa ako sa tatlong magkakapatid. 
+Puro kami babae,” pabirong sabi ni Laya. 
+Tubong-Tondo, lumaki si Laya sa komunidad ng 
+maralitang taga-lungsod. Bagama’t maituturing 
+namang may-kaya ang kanyang pamilya dahil 
+nagtrabaho bilang superbisor sa malalaking 
+kompanya ng textile at cosmetics ang kanyang 
+ama, nasaksihan ni Laya ang malalang kalagayan 
+ng kahirapan sa ating lipunan. 
+
+Sa kolehiyo, lubos na naunawaan ni Laya 
+ang mga problema ng bansa. Sa unang taon pa 
+lamang niya sa kolehiyo, taong 1999 nang siya’y 
+maengganyong sumali sa isang pangkulturang 
+organisasyon sa kanilang unibersidad. Dahil sa 
+likas sa kanya ang kagustuhang magtanghal, ang 
+umawit, naging aktibong kasapi si Laya ng kanyang 
+organisasyon. Hindi tulad ng ibang pangkulturang 
+organisasyon, ang mga panlipunang pangyayari 
+ang karaniwang itinatanghal ng kanilang grupo 
+
+hindi lamang sa mga bulwagan, kundi maging sa 
+mga kalsada at kilos-protesta. 
+
+“Pagkalipas ng ilang buwan sa pangkulturang 
+organisasyon na sinalihan ko, inanyayahan akong 
+sumapi sa Kabataang Makabayan (KM), isang 
+rebolusyonaryong organisasyon ng mga kabataan 
+sa ilalim ng NDFP (National Democratic Front of 
+the Philippines). Hindi naman ako nagdalawang-
+isip na sumali sa organisasyon na ‘yon,” ani Ka 
+Laya.
+
+Sa simula, pinagsabay pa ni Ka Laya ang 
+pag-aaral at ang pagkilos. Pagtuntong ng 
+ikalawang taon, tuluyan nang iniwan ni Ka Laya 
+ang kanyang mga klase. Inilaan niya ang buong 
+panahon sa pagkilos bilang miyembro ng KM 
+at ng kanilang pangkulturang organisasyon. 
+Siya ay buong-panahon nang kumikilos bilang 
+pangkulturang aktibista upang “mas dumami 
+ang mga kabataang sasali sa pangkulturang 
+organisasyon.” Gayunpaman, hindi natigil ang 
+pag-aaral at pagkatuto ni Ka Laya. Bukod umano 
+sa pagtatanghal, patuloy ring nag-aaral ang isang 
+pangkulturang aktibista na sa kanyang pananaw 
+ang siyang lalong nagpapatatag sa kanya. Sa mga 
+pag-aaral na isinasagawa, “nalalaman kung ano 
+ba talaga ang mayroon sa Pilipinas, na hindi natin 
+karaniwang nababasa sa diyaryo, napapakinggan 
+sa radyo, o napapanood sa telebisyon. Ito ‘yong 
+mga katotohanang hindi natin nakikita sa paligid 
+pero nakabuyangyang siya pero hindi sya 
+buyangyang na nakikita sa midya.”
+
+Sa mga pag-aaral na ito, nasagot ang maraming 
+katanungan na mayroon si Ka Laya bilang isang 
+masang aktibista. Higit niyang naunawaan ang 
+mga isyu hinggil sa kalagayan ng mga kabataan, 
+mga magsasaka, mga kababaihan. Binura ng mga 
+pag-aaral na ito ang kanyang dating paniniwala 
+na kaya may mahirap dahil talagang tamad. 
+Halimbawa umano ang mga magsasaka at mga 
+kabataan. Walang mga lupa ang mga magsasaka 
+at naghihirap sila dahil umano tamad. Ang mga 
+kabataan, tamad din, tapos gawa pa nang gawa ng 
+anak kaya lalong naghihirap. Pero bukod sa mga 
+talakayan at pag-aaral na dinadaluhan ni Ka Laya, 
+sumasama rin siya sa mga integrasyon sa batayang 
+masa. Napatunayan niya sa pakikilahok sa mga 
+
+
+
+109Ka Laya:Rampadora R. Madula
+
+magsasaka mula paggising sa umaga hanggang sa 
+paglubog ng araw na hindi ito katamaran. 
+
+Bagama’t buong-panahon nang kumikilos si Ka 
+Laya, nakabase pa rin siya sa kanilang pamantasan 
+sa ilalim ng pangkulturang organisasyong 
+kinabibilangan. Pinanday ni Ka Laya, hindi 
+lamang ang kanyang talento at kakanyahan sa 
+pagtatanghal, kundi maging ang kanyang pagiging 
+pangkulturang aktibista. “Ang papel kasi ng mga 
+cultural activist, imulat ang mga nakakapanood 
+sa mga pagtatanghal na ito sa anumang porma: 
+pagkanta, pag-arte, paggawa ng visual arts at 
+saka iba pang art forms. Mamulat ang mga 
+audience nito na ‘A! Ito pala ang nangyayari sa 
+Pilipinas!’ Kaya pag narinig ang kanta tungkol sa 
+mangagagawa at magsasaka, ‘Oo nga, totoo ‘yon. 
+Ganon ang nangyayari, mababa ang sahod ng mga 
+manggagawa, walang lupa ang mga magsasaka. 
+Bahagi rin ng mga pag-aaral ay ang pagbibigay 
+ng mga palihan sa mga kabataan upang mapanday 
+ang kanilang mga talento at sining sa pagtatanghal 
+at nang higit na maging epektibo ang paghahatid 
+ng mensahe sa mga manonood.’”
+
+Maituturing na isang alternatibong sining 
+ang itinatanghal ng pangkulturang organisasyon 
+nina Ka Laya. Ito ay bukas para sa lahat ng mga 
+manonood, lalo na sa mga masang kanilang 
+iminumulat. Libre ang kanilang mga pagtatanghal. 
+Bukod pa rito, sila mismo ang nagpupunta sa 
+mga komunidad upang magtanghal. Bilang 
+isang progresibong organisasyon, tinatalakay 
+nito ang tungkol sa mga karanasan ng masa, na 
+“ang maganda roon, dahil tungkol sa kanila ang 
+itinatanghal mo, madali nilang naiintindihan, at 
+madali mo silang naimumulat.” 
+
+Sa unang taon sa kolehiyo, hindi pa naglaladlad 
+si Ka Laya bilang bakla. Gayunpaman, hindi 
+siya nahirapang magbukas ng kanyang sarili sa 
+kanyang mga kolektibo yaong mga taong kasama 
+niya sa pangkulturang organisasyon. Naging 
+madali para sa kanya ito dahil naniniwala siyang 
+sa usapin ng seksuwalidad, ang kanyang kolektib 
+ang unang makakaintindi sa kanya kahit pa sa 
+panahong iyon, wala siyang kolektib na bakla rin 
+kundi mga kaopisina at kasama sa bahay lamang. 
+“Dahil nga ito ay kilusang mapagpalaya, bahagi 
+
+nito ang pagpapalaya sa sarili,” pahayag niya.
+Kung naging madali ang paglaladlad sa mga 
+
+kasamang aktibista, maituturing naman ni Ka 
+Laya na “pinakamahirap, pero sa kabilang banda, 
+ay pinakamasaya” ang paglaladlad sa pamilya. 
+Bagama’t walang pormal na paglaladlad sa 
+pamilya, tulad ng pagsasabing “Ma, Pa, bading 
+ako,” naniniwala naman siyang walang dapat 
+na ikatakot dahil kilala niya ang kanyang mga 
+magulang. “Hindi naman ako nilunod sa drum, 
+hindi naman ako binugbog,” ayon sa kanya 
+matapos niyang ipakilala ang dating karelasyong 
+lalaki sa kanyang kapatid. Isa sa lubos pa niyang 
+ikinatutuwa ay ang pagmamalaki ng kanyang 
+ama, hindi dahil sa bakla siya, kundi dahil sa 
+aktibista siya. 
+
+Isa sa mga pangunahing tungkulin ng mga 
+aktibista ang mag-organisa ng mga tao upang 
+maging bahagi ng pambansa-demokratikong 
+pakikibaka ng mga mamamayan. Sa mga 
+komunidad, alam niyang hindi maiiwasan ang 
+mga panunukso sa mga bakla. Gayunpaman, 
+hindi na ito nakaapekto sa kanyang pagkilos. Sa 
+maraming pagkakataon, naging paborable pa sa 
+kanya ang pagiging bakla sa pag-oorganisa. “Kasi 
+syempre, iibahin mo talaga iyong tipikal na bakla 
+na loud at out. Totoong ako, out iyong hitsura, pero 
+dahil sa isa akong aktibista, kailangan dignified 
+pa rin. Kailangan mayroon pa ring borders. Kasi 
+sa aktibismo, para kang nagbebenta ng produkto. 
+Para may makabig ka at maniwala silang totoo 
+iyong sinasabi mo, kailangan din ang paraan mo 
+ng pagsasalita, hindi bastos. Dignified na bading,” 
+dagdag pa niya. 
+
+Naniniwala si Ka Laya na bahagi ng isinusulong 
+na rebolusyon ay ang kultural na rebolusyon. Ang 
+piyudal na sistema ng ating lipunan ang nagbigay 
+sa mga mamamayan ng hindi magandang 
+pagtingin sa mga bakla. Inamin niyang hindi 
+lamang sa mga kabataang inoorganisa maaaring 
+makaranas ng diskriminasyon ang isang baklang 
+aktibista, kundi maging sa kanyang mga kasama. 
+Bagama’t wala namang halos ipinagkaiba umano 
+ang isang heterosexual na aktibista sa isang 
+baklang aktibista dahil ayon nga kay Ka Laya, 
+“pare-pareho naman kami ng ginagawa. Kung 
+
+
+
+110 Malay Tomo XXVI  Blg. 2
+
+may mga pagkilos o rally, andoon. Kung sila 
+napupukpok ng batuta ng pulis, gano’n din ako. 
+Kung nabobomba sila ng tubig, gano’n din ako. 
+Kung may dispersal at nandoon ako sa rally, 
+nadidisperse din ako,” hindi pa rin maiiwasang 
+maramdaman ang diskriminasyon sa mga bakla ng 
+mga kasama. “Kahit simpleng pag-iisip na hindi 
+kayang gawin ng isang babae o bading ang isang 
+bagay na ginagawa ng isang pangkaraniwang 
+rebolusyonaryo, diskriminasyon na iyon na 
+maituturing. Iyon ay pangmamaliit sa kakayahan 
+ng bading o ng babae,” aniya. 
+
+Gayunpaman, naniniwala si Ka Laya na 
+mahusay ang kilusan sa paghawak ng usapin 
+hinggil sa diskriminasyon, na ang kilusan ay 
+lubhang napakaingat ukol rito lalo pa’t isa 
+ito sa mahigpit na tinututulan at nilalabanan 
+ng kilusan. May mga patnubay na sinusunod 
+ang mga miyembro ng kilusan hinggil sa 
+pakikipag-ugnayan sa mga kasama, maging 
+yaong may piniling kasarian. Dahil dito, higit na 
+napapangalagaan ang karapatan ng mga kasamang 
+bakla, lesbiyana, at maging sa mga babae na 
+maaaring nakararanas rin ng diskriminasyon 
+sa loob nito. Sa mga patnubay na ito, mas 
+nagiging malay ang mga masang aktibista’t mga 
+rebolusyonaryo na bakahin ang kanilang piyudal 
+na kulturang sanhi ng hindi pantay na pagtingin 
+sa mga kasama na maaaring batay sa kanilang 
+kasarian at seksuwalidad. 
+
+Sa loob ng mahigit isang taon, naging masigasig 
+na aktibistang pangkultura si Ka Laya. Ilang 
+buwan matapos siyang marekruta sa KM, tinasa 
+ang kanyang mga ginawang pagkilos, naging 
+Kandidatong Kasapi (KK) si Ka Laya ng Partido 
+Komunista ng Pilipinas (PKP) at tuluyang naging 
+Ganap na Kasapi (GK) nito noong Oktubre 2000. 
+Mula sa maraming pagkakataong naranasan 
+niyang pumasok sa isang sonang gerilya sa isang 
+yunit ng hukbo ng NPA sa loob ng ilang taon, 
+napagdesisyunan ni Ka Laya na sa tingin niya’y 
+hindi na sapat ang kanyang ginagawa para baguhin 
+ang sistema ng ating lipunan, na  kinakailangan 
+talaga ang armadong pakikibaka. May ilan na 
+rin siyang nabalitaang baklang sumampa rin sa 
+kabundukan at naghukbo na nakadagdag din 
+
+ng inspirasyon sa kanya upang ipagpatuloy ang 
+pakikibaka at pagrampa sa kanayunan. 
+
+Ikalawang Tala: Rampa sa Kanayunan
+
+ “Pumalahaw ng sigaw si Lyndon, sabay 
+igkas paakyat sa isang puno ng kape. Putlang-
+putla at nanginginig, lumundag siya isang saglit 
+pa mula sa puno at ikinasa ang isyung Garand. 
+ Noon ko lang nakitang nagitla at nagalit 
+si Lyndon nang ganun. Sa loob ng mahigit 
+tatlong taon naming magkakolektib, marami-
+rami na rin ang reyd o aksyong depensiba ang 
+kanyang naranasan at talagang wala pa akong 
+maalala na naging ganun ang reaksyon niya. 
+Kasi naman, ang mistulang sumalakay sa kanya 
+sa pagkakataong iyon ay ang s’ya na ngang 
+pinakakinatatakutan niya: ahas!
+ Sabihin na ngang sadyang palabiro ang 
+mga kasama, kaya nga’t dala ng katuwaa’y 
+hinagisan nila ng patay na ahas si Lyndon, 
+subalit minsa’y may mga birong hindi na 
+nakakatawa. Mangyari pa, ang mga paminsan-
+minsang birong ito’y maaaring tukuying 
+‘inosenteng’ ekspresyon o manipestasyon ng 
+tagong diskriminasyon. 
+ Si Lyndon – nagmula sa uring mababang-
+panggitnang magsasaka at ulila nang lubos – 
+ay isang baklang Pulang mandirigma. Noong 
+1998 lamang nagpasya si Lyndon na ipahayag 
+sa mga kasama ang tungkol dito. Ito’y matapos 
+ng mahabang panahon ng pagkukubli, ng 
+masalimuot na pag-aalinlangan kung handa 
+ba ang mga kasama at masa – at maging ang 
+kanyang sarili – na tanggapin ang ganitong 
+katotohanan…
+ Ilan nga lamang ang nag-akalang si 
+Liam, isang kasamang maaaring itinuturing na 
+‘mahina’ ng karamihan dahil isa siyang bakla, 
+ang isa sa mga nakapigil sa mga kaaway nang 
+papaatras na ang mga kasama sa nasabing 
+matagumpay na TO (tactical offensives). 
+Totoong katapangan, sabi pa ng mga kasama, 
+ang kanilang nakita sa kanya. 
+ Mahigit apat na taon nang kumikilos 
+sa kanayunan si Liam. Nagmula sa uring 
+petiburges at nagtapos sa isang kilalang 
+unibersidad, isa si Liam ngayon sa mga 
+responsableng kasama sa Kawanihan sa 
+Kultura ng rehiyon.”
+
+
+
+111Ka Laya:Rampadora R. Madula
+
+“Si Lyndon at si Liam” ni Agos Verdadero at 
+Kasamang Ali mula sa Ulos
+
+Setyembre 2001.
+
+Ika-26 ng Disyembre 1968 nang muling 
+itatag ang Partido Komunista ng Pilipinas 
+(PKP) sa pangunguna ni Amado Guerrero sa 
+ilalim ng patnubay ng Marxista-Leninista-
+Maoistang pananaw. Ito ang simula ng Unang 
+Dakilang Kilusang Pagwawasto (UDKP) ng 
+Partido. Mula rito, bago magtapos ang taon, 
+maraming miyembro ng Partido sa kalunsuran 
+ang nakibahagi sa selebrasyon ng pagkakatatag 
+ng PKP sa kanayunan. Isa rito si Ka Laya noong 
+2004.
+
+Kasama ang ilan pang kabataan, nakipamuhay 
+nang ilang araw sa mga kasamang hukbo sina Ka 
+Laya. Sumama sila sa pagtulong sa pagtatanim 
+ng mais ng isang pamilyang magsasaka. Naging 
+mainit ang pagtanggap ng masa at ng mga kasamang 
+hukbo sa grupo nina Ka Laya. Ngunit matapos 
+ang ilang linggo, kinailangan nang bumaba ng 
+ilang ‘exposurists,’ maliban kay Ka Laya. Hindi 
+naging madali ang pagdedesisyong iyon. Walang 
+pormal na pagpapaalam si Ka Laya sa kanyang 
+mga naiwang kolektib sa Kamaynilaan. Gayundin, 
+bago pa man ay pinag-iisipan na niya ang hirap 
+na maaari niyang kaharapin kapag naiisip niyang 
+tumungo sa kanayunan. “Nararamdaman ko talaga 
+na mahirap. Pero walang bagay na imposible 
+kung gusto talaga nating ipagtagumpay ang isang 
+bagay,” sambit ng bagong hukbong si Ka Laya. 
+
+Ang mga unang buwan ni Ka Laya sa 
+kabundukan ay naging panahon ng kanyang 
+pag-aadjust sa bagong larangang kinikilusan. 
+Maraming pisikal at emosyonal na kahinaan 
+ang kinakailangan niyang bakahin. Nariyan ang 
+“malalayong lakarin, tawid sa rumaragasang ilog, 
+pag-akyat sa matatarik na bundok at matatarik 
+na pababa, maputik na daan, naglalakad habang 
+bumabagyo” na ilan lamang sa mga pisikal na 
+hamong kinaharap niya. “Emotionally, nagke-
+crave pa rin ako sa mga bagay na nakikita ko at 
+natitikman sa lungsod. Pagkain ng masasarap. 
+Lahat ng comfort na nasa lungsod,” dagdag niya. 
+
+Sa yunit na kinapalooban ni Ka Laya, siya 
+lamang ang bakla, at ito ang kauna-unahang 
+pagkakataon na magkakaroon ng baklang 
+kasama ang mga hukbo rito. Sa simula ay 
+talagang “namumulaklak ang bibig” ni Ka Laya 
+sa pagpapaliwanag tungkol sa ano ba talaga 
+ang papel ng mga rebolusyonaryong bading. 
+Ipinaliwanag niya na bilang hukbo, naroroon siya 
+upang matuto kasama ng mga kapwa hukbo, ang 
+gawin ang anuman ang kanilang ginagawa bilang 
+hukbo sa abot ng kanyang makakaya. Ang bawat 
+isa naman umano ay may limitasyon sa mga 
+kayang gawin na hindi naman talaga nakabatay 
+sa kanyang kasarian at seksuwalidad. Alam ni Ka 
+Laya na mahirap ang kanyang ginawang desisyon, 
+gayunpaman, malay siyang kakayanin niya ang 
+lahat ng sirkumstansiyang kaakibat ng desisyong 
+ito. Makalipas lamang ang ilang buwan, ikinatuwa 
+ni Ka Laya na maging ang mga kasamang hukbo 
+ay nagpapaliwanag at nagmumulat na rin sa mga 
+masa tungkol sa kahalagahan ng mga bakla sa 
+rebolusyon at ang kanilang mga karapatan. 
+
+“Ang masa nanibago,  ‘May kasama 
+kayong ano… ganyan?’ May mga masa rin na 
+pinagkakamalan akong babae. Dumating sa punto 
+na hindi na ako ang nagpapaliwanag kung bakit 
+may mga bading sa loob ng hukbo. Iyon nga, 
+ipinapaliwanag na nila na iginagalang ng kilusan 
+iyong mga pagdedesisyon sa paghuhukbo at 
+saka pagpili ng kasarian. At hindi ito sagka para 
+lumahok sa armadong pakikibaka,” salaysay pa 
+niya. 
+
+Kinailangan din niyang mag-adjust sa 
+panibagong antas ng mga gawain. Kung ano 
+ang ginagawa ng mga hukbo, mula paggising ng 
+umaga hanggang pagtulog o hindi pagtulog sa gabi 
+(inaatasan ang dalawang hukbo na maging taliba 
+sa isang tiyak na oras sa gabi hanggang madaling-
+araw kung saan kinakailangan magmatyag sa 
+paligid para mapangalagaan ang nagpapahingang 
+mga kasama). Ayon kay Ka Laya, patuloy rin 
+ang pag-aaral ng mga hukbo sa kabundukan. 
+Nariyan ang tungkol sa lipunan, sa rebolusyon, 
+sa mga lokal na isyu. Halimbawa, ang pag-aaral 
+sa pagpapalit-gamit ng mga lupa o land-use 
+
+
+
+112 Malay Tomo XXVI  Blg. 2
+
+conversion kung saan iyong mga lupang dating 
+sakahan ay tinatayuan ng mga malalaking 
+subdibisyon. 
+
+Bukod sa mga pampolitikang pag-aaral na ito, 
+dumaraan din sila sa mga pisikal na pagsasanay 
+o militaring pag-aaral. Nariyan ang pag-aaral 
+sa paghawak ng baril, paggamit nito, ano ang 
+iba’t ibang uri ng baril. Nagkakaroon din umano 
+ng mga drills at trainings. May mga panahon 
+pang nasa isang kampo lamang ang mga hukbo 
+upang mag-aral ng mga batayang indibidwal na 
+pagsasanay gaya ng tiger jump, iba’t ibang uri ng 
+paggapang at iba pang kasanayang panghukbo. Sa 
+lahat ng ito, walang naging espesyal na pagtrato 
+kay Ka Laya. Kung ano ang ginagawang pisikal 
+na pagsasanay sa mga hukbo ay ibinibigay rin sa 
+kanya at ginagawa rin niya sa abot ng kanyang 
+makakaya. 
+
+“Sa mga pangkaraniwang gawain sa araw-araw, 
+ang pangkaraniwang routine kasi nga ano kapag 
+normal ang sitwasyon o walang kilos ng kaaway, 
+gigising nang alas-kuwatro y medya ng umaga. 
+Kung ikaw ang naatasang magluto, magluluto 
+ka ng pangkape, almusal, ganyan. Tapos, igib ng 
+tubig, kung ikaw ang naatasang magsibak ng kahoy 
+o mangahoy, ikaw ang gagawa. Tapos binibigyan 
+din ng panahon sa sarili. Ligo, paglalaba, hugas 
+ng mga gamit sa pagkain, pinggan, ganyan. Kaya 
+iyong mga pangkaraniwang araw, kung ikaw ang 
+naatasan sa pagtataliba o pagiging guwardya, 
+gagampanan mo rin iyon. Noong una, natakot din 
+ako sa pagguguwardiya. Kasi, paano kung may 
+dumating, ano’ng gagawin mo? Pero dahil sa alam 
+mong bahagi iyon ng gawain bilang hukbo at may 
+kasama ka naman na magtataliba, nawawala ang 
+takot,” pagbabahagi ni Ka Laya. 
+
+Dahil sa napag-alaman ng mga kasamang 
+hukbo ni Ka Laya na siya ay galing sa isang 
+pangkulturang organisasyon, isa sa mga naging 
+dagdag niyang gawain ay ang pagbibigay ng 
+pagsasanay sa larangan ng kultura. Pagtuturo 
+sa mga kasama, pagtalakay sa kanila hinggil sa 
+kultura at sining, pagtuturo sa kanila ng mga awit, 
+pag-arte at iba pang mga pagtatanghal. Bagama’t 
+relatibong mas mahirap turuan umano ang mga 
+hukbo na ang malaking bahagi ay mula sa mga 
+
+uring magsasaka o uring anakpawis, kompara sa 
+mga kabataang binibigyan niya ng pagsasanay sa 
+Kamaynilaan noon, nakabubuo pa rin sila ng mga 
+pagtatanghal. “Hindi man kasing-ganda ng mga 
+pagtatanghal sa Cultural Center of the Philippines, 
+mararamdaman naman ang kasigasigan ng mga 
+hukbo, mararamdaman ang kanilang kagustuhang 
+gawin ang pagtatanghal dahil alam nilang iyon ay 
+tungkol sa masang kanilang pinaglilingkuran,” 
+ayon kay Ka Laya. 
+
+Hindi rin umano mahirap ang pagbibigay ng 
+motibasyon sa mga hukbo gawa ng hindi kaiba 
+sa kanila ang mga pangyayaring ipinapakita ng 
+mga pagtatanghal. Halimbawa, ang harassment, 
+madali nila itong nagagampanan dahil mismong 
+sila ay nakaranas ng harassment sa mga militar. 
+Ang pang-aagaw ng lupa, madali nila itong 
+maipapakita dahil hindi na iyon kaiba sa kanila, 
+naranasan nila mismo ang maagawan ng lupa. 
+
+Maraming gawain ang isang hukbo. Bilang 
+mga NPA, bahagi ng kanilang gampanin ang 
+mga gawaing militar. “Ang mga katangian 
+ng hukbo, una, hukbong pang-propaganda 
+iyan. Nagpopropaganda ‘yan sa bawat masang 
+makakasalamuha niya at naroroon sa kanyang 
+area, minumulat niya ‘yon. Pangalawa, hukbong 
+pangkultura rin ‘yan. Kaya iyong mga pagtatanghal. 
+Sumunod, hukbong pang-produksyon din ‘yan. 
+‘Yon nga, nagtatanim nang libre nang hindi 
+nagpapaupa sa abot ng kanyang makakaya. Tapos, 
+hukbong, sa pangunahin, sa saligan, militar siya. 
+Kaya nga siya may armas. Kaya naranasan ko 
+na ring makasama sa ilang engkuwentro laban 
+sa kaaway. May mga nalahukan din akong mga 
+opensiba, taktikal na opensiba at saka militaring 
+partisan,” pahayag ni Ka Laya. 
+
+Sa isang pagkakaton, may isang yunit ng 
+hukbo na isinama sa yunit nina Ka Laya. Mayroon 
+ding hukbong bading sa kabilang yunit na lubha 
+niyang ikinatuwa dahil may mga bagay na hindi 
+niya nararanasan noong mag-isa pa lamang 
+siyang bakla sa kanilang yunit. Sa mga hukbo, 
+iniiwasan ang pagkakaroon ng mga kondisyon 
+na maaaring magresulta sa isang hindi kanais-
+nais na pangyayari. Hindi maaaring magtabi sa 
+pagtulog o magsabay sa pagligo ang mga babae 
+
+
+
+113Ka Laya:Rampadora R. Madula
+
+at lalaki, gayundin ang mga lalaki’t bakla, babae’t 
+lesbiyana, babae’t bakla, at lalaki’t lesbiyana. 
+Ayon pa kay Ka Laya, “Dahil may kasama na rin 
+akong may piniling kasarian, may katabi na ako 
+sa pagtulog, kuwentuhan habang naliligo kaya 
+masaya. At saka malaking tulong dahil nagkaroon 
+kami ng pagkakataong magkabahaginan hinggil sa 
+mga karanasan namin sa paggampan ng gawain. 
+Ang common ground namin ay iyong pagiging 
+hukbo, pangalawa lang iyong pareho kaming may 
+piniling kasarian.”
+
+Ikatlong Tala: Rampa sa Sangandaan 
+ng Pag-ibig
+
+ “DARE to struggle, dare to win ... as 
+married gays. After raiding a few Army camps, 
+two communist guerrillas hid in a forest gorge 
+and fell in love.
+ Deeply.
+ That was three years ago. On Friday, 
+under a romantic drizzle in a muddy clearing 
+in Compostela Valley province in Mindanao, 
+Ka Andres and Ka Jose exchanged vows in 
+a heavily guarded ceremony before local 
+villagers, friends from the city and their 
+comrades in arms. They are considered the first 
+homosexual couple in the New People’s Army 
+(NPA) who were wed by the Communist Party 
+of the Philippines (CPP).
+ During the ‘wedding,’ sponsors draped 
+a sequined CPP flag around the couple’s 
+shoulders. The flag was held in place by a 
+long, beaded cord which also went around the 
+couple and the sponsors -- symbolizing that 
+their marriage would be made stronger with 
+the help of comrades and the masses.
+ Andres held a bullet, as did Jose and each 
+other’s hands. The bullets represented their 
+‘commitment in the armed struggle.’
+ Throughout the ceremony, a choir 
+serenaded them with revolutionary love songs. 
+After they signed their ‘wedding contract,’ the 
+newlyweds kissed amid the usual applause.”
+ 
+“Reds officiate first gay marriage in NPA” ni 
+
+Rolando Pinsoy 
+mula sa Philippine Daily Inquirer, Ika-7 ng 
+
+Pebrero 2005.
+
+Nasa hayskul si Laya nang siya ay unang 
+magkaroon ng girlfriend. Mahigit isang taon 
+sila ng kanyang unang karelasyong babae. 
+Pagdating sa kolehiyo, muli siyang nagkaroon ng 
+karelasyong babae na isa ring aktibista. “Naging 
+magkarelasyon kami, nagkasagutan kami sa 
+ibabaw ng isang overpass galing sa isang rally. 
+Kaiba siya sa  naging relasyon ko noong hayskul, 
+kasi ito pinagbibigkis kami ng pagmamahal dahil 
+sa pareho kaming aktibista,” aniya. 
+
+Bagama’t inamin ni Ka Laya na kahit mayroon 
+siyang karelasyong babae, nagkakagusto pa rin 
+siya sa lalaki. “Pero walang naganap na infidelity, 
+ha. Promise talaga,” paglilinaw niya. Umabot 
+rin ng isang taon ang kanilang relasyon bago 
+sila tuluyang naghiwalay. Dahil politikal umano 
+ang nagustuhan nila sa isa’t isa, nang ma-house 
+arrest ang kanyang karelasyon, at matagal silang 
+nawalan ng komunikasyon, nabawasan ang naging 
+batayan kung bakit sila nagkagustuhan hanggang 
+sa tuluyan na nilang wakasan ang kanilang 
+relasyon at hindi na muling nagkita. Nilinaw rin 
+niyang walang nagyari sa mga naturang relasyon 
+“kahit holding hands.” 
+
+Sa kanyang ikalawang taon sa kolehiyo, kung 
+kailan nagpasiya siyang kumilos nang buong-
+panahon bilang aktibista, nagsimula na rin 
+siyang magpahaba ng buhok. Nilinaw niyang ang 
+desisyong ito’y hindi bahagi ng kanyang pagiging 
+bakla, kundi mas bahagi pa ng kanyang pagiging 
+artista. “Kahit magpakalbo ako, hindi naman 
+ibig sabihin magbabago na rin ang sexuality ko,” 
+dagdag pa niya. Isa rin sa laging napag-uusapan 
+sa tuwing nagkakabiruan ay ang pagsali ni Ka 
+Laya sa isang gay beauty pageant sa kanilang 
+pamantasan na inorganisa rin naman ng mga 
+kapwa niya aktibista. Pinilit din umano siya ng 
+mga kasama niya na sumali dahil ayon na rin sa 
+kanya “Dahil sa tingin nila, maganda ako!”
+
+“Iyon ang una’t huli. Parang ipinangako ko 
+na talaga sa sarili ko na hindi ko na ulit gagawin 
+iyon dahil ayaw ko talaga ng ganun. Dun na lang 
+ako nakaranas na talagang may foundation, may 
+eye shadow. Hindi talaga ako mahilig sa ganun. 
+Kahit nga mga magulang ko nagugulat kasi hindi 
+talaga ako ang conventional na bading o totoong 
+
+
+
+114 Malay Tomo XXVI  Blg. 2
+
+sa parang biglang tingin mapagkakamalan akong 
+babae dahil sa hubog ng katawan, sa haba ng 
+buhok. Pero hindi ako marunong magmake-up 
+kahit nga pulbos kasi ayaw ko talaga ng pulbos. 
+Kahit lipstick, hindi ko pa iyon nagagawa. Mas 
+gusto ko pa iyong mag-igib ng tubig, magsibak 
+ng kahoy!” pagpapaliwanag ni Ka Laya. Dahil 
+na rin umano sa kanyang sagot sa tanong ukol 
+sa diskriminasyon sa mga bakla, pumasok si Ka 
+Laya sa Top 5, at dahil na rin umano sa “may 
+mas matatalino at mas magaganda” sa kanya, 
+hanggang Top 5 lang ang kanyang inabot. 
+
+Taong 1998 nang amyendahan ng Partido 
+ang Gabay sa Pag-aasawa kung saan sa 
+bagong alituntunin, maaari nang ikasal ang 
+magkaparehong kasarian. Patunay umano ito na 
+ang Partido ay hindi sang-ayon sa anumang uri ng 
+diskriminasyon sa loob ng kilusan, at kinikilala 
+nito ang karapatan ng bawat miyembro nito, 
+maging yaong may mga piniling kasarian. 
+
+Matapos ang dalawang relasyon sa babae, 
+nagkaroon na rin ng dalawang karelasyong lalaki 
+si Ka Laya. Ang kanyang unang relasyon sa lalaki 
+ay noong buong panahon na siyang kumikilos. 
+Sa isang integrasyon sa kanayunan, nakasama 
+niya ang lalaking una niyang naging karelasyon. 
+Pareho silang nakipamuhay sa kanayunan, at 
+doon nabuo ang kanilang pagtitinginan. “Walang 
+pormal na pagsasalita. Sa katunayan, isa ngang 
+paglabag iyon dahil sa wala kami sa batayan. Wala 
+kaming programa.” Isa sa mahahalagang bahagi 
+ng pakikipagrelasyon sa loob ng Partido ay ang 
+pagpoprograma ng mga relasyon. Ipinapaalam 
+at pinag-uusapan ng mga miyembro ng kolektib 
+ng dalawang taong sangkot sa isang relasyon 
+ang ilang punto ng relasyon. Nilalayon nitong 
+maisaayos ang relasyon at hind maging sagka sa 
+pagkilos ng bawat isa, sa halip magkatuwang na 
+isulong ang pambansa-demokratikong pakikibaka. 
+
+Naging mabilis ang unang relasyon ni Ka Laya. 
+Sa sumunod na pagkakataon, isang aktibistang 
+dating taga-Maynila na nalipat sa isang malayong 
+probinsiya ang naging karelasyong lalaki ni Ka 
+Laya na tumagal nang mahigit isang taon. May 
+pagmamahal at may pampolitikang batayan ang 
+huling relasyon ni Ka Laya. Hindi naging mahirap 
+
+para sa kanilang dalawa ang pagpapakita ng 
+kanilang pagmamahal sa harap ng mga kasama. 
+May mga pagkakataon namang kapag sila ay 
+naghahawak-kamay, may ibang mga tao na 
+tumitingin lalo na yaong mga masa na nakakakita. 
+Hindi nila ito pinapansin dahil, ayon nga kay Ka 
+Laya, “we’re so much in love!”
+
+Matapos ang pagsasagawa ng unang kasal 
+ng dalawang lalaking NPA sa Davao noong 
+2005, maraming bakla sa loob ng Partido ang 
+hinangad na magpakasal din at bumuo ng isang 
+rebolusyonaryong pamilya. Isa na rito si Ka Laya. 
+“May perspektiba rin naman ako na makapag-
+asawa sa loob ng hukbo at maikasal sa ilalim ng 
+bandila ng Partido. Pero siyempre, hindi lang 
+naman ako ang magtatakda noon kundi iyong 
+mga panlabas na salik maliban sa akin. Kaya 
+ngayon, naiisip ko na kung hindi man mangyari 
+iyon, hindi rin naman ako talo. Kasi lagi namang 
+nandiyan ang mga kasama, ang masa na nag-
+aaruga sa akin.”
+
+Malaking bahagi ng pagmamahal ni Ka Laya ay 
+inilalaan niya sa mga kasamang aktibista, sa mga 
+rebolusyonaryong hukbo at sa masang kanyang 
+pinaglilingkuran. Ang kanyang pamumundok ay 
+ipinagpapasalamat niya sa mga kasamahan niyang 
+aktibista sa kalunsuran na nagmulat sa kanya, 
+dahil kung hindi umano sa kanila, hindi niya 
+mararanasan ang mga nararanasan niya ngayon 
+bilang isang hukbo at miyembro ng Partido. 
+
+ 
+Huling Tala: Rampa-hayag ni Ka Laya
+
+ “Batay sa sarili kong karanasan, ang 
+pagpapalaya sa sambayanan ay pagpapalaya 
+sa sarili. Kumbaga, kung hindi natin napalaya 
+ang sarili natin, mahihirapan tayong palayain 
+din ang iba. Bahagi ng pagpapalaya sa sarili 
+ay ang pag-amin o paglabas sa kung ano talaga 
+tayo, ang pagiging totoo sa sarili. Dahil dito 
+bumabatay ang mga kondisyon, kung paano 
+tayo pakikitunguhan at ituturing ng mga 
+kapwa kasama. Hindi naman nakakatakot 
+mag-out lalo na sa loob ng kilusan dahil ang 
+diskriminasyon ay malaking usapin sa atin. 
+Kung hindi tayo titindig laban dito, hindi ito 
+tuluyang magbabago. 
+ Ang papel ng bakla sa lipunan at sa 
+rebolusyong Pilipino ay kagaya rin ng ibang 
+
+
+
+115Ka Laya:Rampadora R. Madula
+
+sektor – mangagagawa, magsasaka, kabataan, 
+kababaihan – ay malaki. Ang kagustuhan 
+nating mag-ambag ng buhay, lakas, pagharap 
+sa kahirapan ay hindi naman nakabatay sa 
+kung mayroon ka bang piniling kasarian o 
+wala. Kaya ang mga bakla na patuloy na 
+lumalaban sa diskriminasyon at sa mismong 
+pagpapalit ng sistema, ito ang malaking papel 
+na ginagampanan ng mga bakla sa rebolusyon.
+ Nais kong makilala bilang hukbo na 
+nag-alay ng kanyang buhay at tinalikuran ang 
+mga luho sa lungsod para magpakahirap sa 
+kanayunan para sa isang dakilang layunin. 
+Ang pag-alala naman sa akin ay hindi naman 
+mismong pag-alala sa akin, dahil malaking 
+bahagi kay Ka Laya, malaking bahagi ng 
+kanyang buhay ay nasa piling ng masa kaya 
+kapag naalala ang masa, parang naaalala na 
+rin si Ka Laya.”
+
+mula sa isang panayam kay Ka Laya, sa 
+Lungsod ng Quezon, 
+
+ika-12 ng Oktubre 2008
+
+Mahirap ang maging bakla sa Pilipinas. 
+Kahit pa sabihing may mga baklang tinitingala 
+sa ating lipunan dahil sa kanilang tagumpay na 
+nakakamit, hindi pa rin ito patunay ng pagkawala 
+ng diskriminasyon, ng pagtanggap at paggalang sa 
+kanilang seksuwalidad. Hanggang patuloy pa ring 
+napipilitang rumampa sa madidilim na kalsada, sa 
+mga gilid ng eskinita, sa masisikip na espasyo ang 
+mga bakla, patuloy pa ring naririyan ang kawalan 
+ng katarugan dahil lamang sa seksuwalidad o 
+piniling kasarian. 
+
+Mahirap maging aktibista at rebolusyonaryo sa 
+Pilipinas. Bukod sa personal na mga problemang 
+kinakaharap, lagi’t laging isinasaisip pa rin ng 
+isang rebolusyonaryo ang interes at kapakanan ng 
+mas nakararaming bilang ng mga mamamayan. 
+Bukod pa rito, laging nariyan ang kapulisan at 
+pamahalaan upang i-disperse, bombahin, paluin, 
+paslangin at tuluyang patahimikin ang mga 
+kalaban ng estado, kahit pa ang tanging nais ng 
+mga ito ay pagbabago. Lagi ring naririyan ang 
+mga militar na tumutugis sa mga hukbo, sa mga 
+miyembro ng mga andergrwand na organisasyon.
+
+Sa kabila ng lahat ng ito, ang maging baklang 
+
+aktibista o baklang hukbo ay isang malinaw na 
+manipestasyon ng katapangan. Ang mga karanasan 
+ni Ka Laya at ng marami pang bakla ay patuloy 
+na nagbibigay ng pag-asa sa bawat isa na darating 
+ang panahon at makakamtan ng ating bayan ang 
+tunay na kalayaan. Ang pakikibahagi ng maraming 
+mamamayan sa pambansa-demokratikong 
+pakikibaka ay magsisilbing inspirasyon upang 
+patuloy na magpakatatag at kumilos ang mga 
+mamamayang Pilipino. 
+
+Mahigit apat na dekada na ang nakalilipas 
+mula nang muling itatag ang Communist Party 
+of the Philippines (CPP). Hindi maikakailang 
+iba na ang panahon ngayon. May mga tanong 
+tungkol sa pangangailangan ng mga pambansang 
+kilusan ng iba’t ibang sektor sa ating lipunan. 
+Uso pa ba ang pakikibaka sa kasalukuyan? May 
+pangangailangan pa bang maghimagsik, kumilos 
+at magrebolusyon? Paano nga ba tuluyang 
+makakamit ang tunay na kalayaan?
+
+Ang pambansa-demokratikong rebolusyon 
+ay isang larangan sa ating lipunan na patuloy na 
+pinalalawak ng iba’t ibang sektor sa ating lipunan, 
+pangunahin na ang sektor ng mga manggagawa, 
+magsasaka, kababaihan, at kabataan. Nariyan 
+din ang mga lihim na organisasyon sa ilalim ng 
+National Democratic Front of the Philippines 
+(NDFP) tulad ng ARMAS para sa mga artista at 
+kultural na manggagawa, ang KAGUMA para sa 
+mga guro. Mayroon din para sa mga relihiyoso, sa 
+empleyado sa mga opisina ng gobyerno, sa mga 
+etnolingguwistikong grupo, mga propesyonal, 
+doktor at iba pang manggagawa sa kalusugan, at 
+iba pang grupo. 
+
+Malinaw ang sinasabi ng Partido tungkol sa 
+kung sino ang maaaring maging kasapi nito: “Ang 
+sinumang mamamayan o naninirahan sa Pilipinas 
+na di babata sa 18 taong gulang, nagtataguyod ng 
+Marxismo-Leninismo-Maoismo, sa Programa’t 
+Konstitusyon ng Partido, at sumasang-ayong 
+kumilos nang buong sigasig sa isang organisasyon 
+ng Partido, tumupad sa mga desisyon ng Partido, 
+at magbayad ng butaw sa pagpasok at regular na 
+buwanang butaw, ay maaaring tanggaping kasapi 
+ng Partido (BKP 381).”
+
+Hindi kailanman naging hadlang sa pagpasok 
+
+
+
+116 Malay Tomo XXVI  Blg. 2
+
+sa loob ng Partido ang kasarian ng isang kasama. 
+Gayundin, batay sa mga inilahad na kuwentong 
+buhay, ang imbitasyong maging kasapi ng 
+mga lihim na kilusan ay hindi naging isyu ang 
+seksuwalidad at kasarian ng mga bakla. Hindi 
+kailanman naging balakid ang kanilang pagiging 
+bakla upang maging kasapi nito. Sa pagsusuri 
+sa mga larangan ng kilusan, organisasyonal, 
+politikal at ideolohikal, hindi naging balakid ang 
+pagiging bakla. Ang mga bakla’y nabibigyan 
+ng pagkakataong maging organisador, maging 
+instruktor, tagapagsalita, propagandista, kalihim 
+at opisyal ng mga yunit sa Partido. Kung gusto 
+nilang lumahok sa armadong pakikibaka, 
+humawak ng armas at maging hukbo ay maaari 
+nilang gawin. Tanging batayan lamang ay ang 
+kanilang pagtataya sa rebolusyon at pakikibaka.  
+
+SANGGUNIAN
+
+Aquino, Clemen. “Pagbabahagi ng Kuwentong Buhay: 
+Isang Panimulang Pagtingin.” Gender Sensitive 
+and Feminist Methodologies. Manila. Limbag.  
+
+Batayang Kurso ng Partido. Pambansang Kagawaran 
+sa Organisasyon, Partido Komunista ng Pilipinas, 
+2000. Limbag.
+
+Betsky, Aaron. Queer Spaces: Architecture and 
+Same-Sex Desire. William Morrow and Co. 1997, 
+Limbag.
+
+Bourdieu, Pierre. Pascalian Meditations. Nice, 
+Richard (trans). Cambridge: Polity Press, 2000. 
+Limbag.
+
+--- . Outline of a Theory of Practice. Nice, Richards 
+(trans). Cambridge: Cambridge University Press, 
+1993. Limbag. 
+
+Guerrero, Amado. Lipunan at Rebolusyong Pilipino 
+reprint. Manila, 2009. Limbag.
+
+Javier, Roberto Jr. Pangpamamaraang Kaangkinan 
+ng Pakikipagkuwentuhan.” Quezon  C i t y :  
+Pambansang Samahan sa Sikolohiyang Pilipino, 
+2005. Limbag.
+
+“Ka Joan: Kakaibang Mandirigma.” Ang Bayan. 2004. 
+Limbag. 
+
+Kasama: A Collection of Photographs of the New 
+People’s Army of the Philippines, 
+
+International Concerns for the People’s Struggles 
+(ICPS) Southern Tagalog, 1987. Limbag.
+
+Ofreneo, Rosalinda Pineda. Tinig at Kapangyarihan: 
+Mga Kuwentong Buhay ng Kababaihang 
+Manggagawa sa Bahay. Quezon City: UP Press, 
+1999. Limbag.
+
+Pinsoy, Rolando. “Reds Officiate First Gay Marriage.” 
+Philippine Daily Inquirer 7 February 2005. 
+Limbag. 
+
+Pulang Mandirigma: Images of the New People’s 
+Army. Partido Komunista ng Pilipinas, 2004. 
+Limbag.
+
+Santiago, Lilia Q. “Tungo sa Panunuring Malay sa 
+Kasarian: Mga Panimulang Batis.” Sa Ngalan 
+ng Ina: Sandaang Taon ng Tulang Feminista sa 
+Pilipinas 1889-1989. Quezon City: UP Press 1997. 
+Limbag. 
+
+The Allied Organizations of the National Democratic 
+Front of the Philippines. April 24, 2005. Limbag.
+
+Verdadero, Agos. “Si Lyndon at si Liam.” Ulos. 2001. 
+Limbag. 
+
+Interbyu
+
+Ka Nayon. Personal na Interbyu. Pebrero 21, 2009.
+--- . Personal na Interbyu. Marso 3, 2009.
+--- . Personal na Interbyu. Marso 21, 2009.
+
+

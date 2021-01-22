@@ -1,0 +1,17 @@
+id,querystring,comcode,year,freq
+0.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,481850,2017.0,A
+0.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,630790,2017.0,A
+0.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,902000,2017.0,A
+0.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,900490,2017.0,A
+0.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,392620,2017.0,A
+1.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,392620,2017.0,A
+1.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,401511,2017.0,A
+1.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,401519,2017.0,A
+1.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,611610,2017.0,A
+1.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,621600,2017.0,A
+2.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,650500,2017.0,A
+2.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,392620,2017.0,A
+2.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,401590,2017.0,A
+2.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,481850,2017.0,A
+2.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,621010,2017.0,A
+2.0,http://comtrade.un.org/api/get?type=C&freq=A&px=HS&ps=2017&r=all,621050,2017.0,A

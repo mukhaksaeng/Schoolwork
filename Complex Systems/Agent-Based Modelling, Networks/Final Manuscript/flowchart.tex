@@ -1,0 +1,85 @@
+\documentclass[a4paper]{article}
+
+\usepackage[latin1]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows}
+\begin{document}
+\pagestyle{empty}
+
+\tikzstyle{every node}=[font=\scriptsize]
+
+% Define block styles
+\tikzstyle{decision} = [diamond, draw, fill=blue!20, 
+    text width=6em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{block} = [rectangle, draw, fill=blue!20, 
+    text width=10em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{blockSmall} = [rectangle, draw, fill=blue!20, 
+    text width=10em, text centered, rounded corners, minimum height=2em]
+\tikzstyle{line} = [draw, -latex']
+    
+\begin{tikzpicture}[node distance = 3cm, auto]
+    % Place nodes
+    \node [block] (init) 
+    {Initialize matrices
+    \begin{itemize}
+    \item trade
+    \item transfer matrix 
+    \item exports/imports
+    \item shocks from previous iteration \end{itemize}};
+
+    \node [blockSmall, below of=init, node distance = 2.5 cm] (firstIter) {t = 1};
+    
+    \node [decision, below of=firstIter, node distance = 2 cm] (iterDecide) {t = 1?};
+    
+    \node [block, right of=iterDecide, node distance = 4 cm] (initShock) 
+    {\begin{itemize}
+    \item Get import/export partners of each country $i$
+    \item Update $E$/$I$
+    \item Compute initial shock
+	\end{itemize}};
+
+    \node [block, below of=iterDecide, node distance = 3 cm] (nextShock) 
+     {\begin{itemize}
+    	\item Get import/export partners of each country $i$
+    	\item Update $E$/$I$
+    	\item Compute succeeding shock
+    	\end{itemize}};
+    
+    \node [block, below of=nextShock, node distance = 2.5 cm] (tempChange) {Compute for change in trade and exports/imports due to shock};
+    
+    \node [block, below of=tempChange, node distance = 2 cm] (tempExport) {Compute for \texttt{temp\_exports}/\texttt{temp\_imports}};
+    
+    \node [decision, below of=tempExport, node distance = 2.5 cm] (tempExportDecide) {Is any of \texttt{temp\_exports} or \texttt{temp\_imports} = 0?};
+    
+    \node [blockSmall, below of=tempExportDecide, node distance = 2 cm] (stop) {stop};
+    
+    \node [block, right of=tempExportDecide, node distance = 4 cm] (update)
+    {\begin{itemize}
+    	\item Update trade and export/import matrices
+    	\item Update transfer matrix
+    	\item Store all shocks received in \texttt{shocks\_prev}
+    	\end{itemize}};
+    
+    \node [decision, below of=update, node distance = 3 cm] (iterMaxDecide) {t = $k_{max}$?};
+    
+    \node [blockSmall, below of=iterMaxDecide, node distance = 2 cm] (stop2) {stop};
+    
+    % Draw edges
+    \path [line] (init) -- (firstIter);
+    \path [line] (firstIter) -- (iterDecide);
+    \path [line] (iterDecide) -- node{yes} (initShock);
+    \path [line] (iterDecide) -- node{no} (nextShock);
+    \path [line] (initShock) |- (tempChange);
+    \path [line] (nextShock) -- (tempChange);
+    \path [line] (tempChange) -- (tempExport);
+    \path [line] (tempExport) -- (tempExportDecide);
+    \path [line] (tempExportDecide) -- node{yes}(stop);
+    \path [line] (tempExportDecide) -- node{no}(update);
+    \path [line] (update) -- (iterMaxDecide);
+    \path [line] (iterMaxDecide) -- node{yes}(stop2);
+    \path [line] (iterMaxDecide) -| node[near start]{no}([xshift=-3cm] stop.south)
+    |- (nextShock);
+\end{tikzpicture}
+
+
+\end{document}

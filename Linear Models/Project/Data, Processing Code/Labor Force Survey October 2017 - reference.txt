@@ -1,0 +1,536 @@
+Source Information: 
+
+LFS-RFMT-1017-PUF.dcf
+LFS1017-041218-NEWSAMPLE-PUF.F2
+
+(ID Items) 
+
+pufreg          Region
+pufprv          Province
+pufprrcd        Province Recode
+pufhhnum        Household Unique Sequential Number
+
+(Household Members)
+
+pufurb2k10      2010 Urban-Rural FIES
+pufpwgtprv      Final Weight Based on Projection (provincial projections)
+pufsvymo        Survey Month
+pufsvyyr        Survey Year
+pufpsu          PSU Number
+pufrpl          Replicate
+pufhhsize       Household Size
+pufc01_lno      C101-Line Number
+pufc03_rel      C03-Relationship to Household Head
+pufc04_sex      C04-Sex
+pufc05_age      C05-Age as of Last Birthday
+pufc06_mstat    C06-Marital Status
+pufc07_grade    C07-Highest Grade Completed
+pufc08_cursch   C08-Currently Attending School
+pufc09_gradtech C09-Graduate of technical/vocational course
+pufc10_conwr    C10-Overseas Filipino Indicator
+pufc11_work     C11-Work Indicator
+pufc12_job      C12-Job Indicator
+pufc14_procc    C14-Primary Occupation
+pufc16_pkb      C16-Kind of Business (Primary Occupation)
+pufc17_natem    C17-Nature of Employment (Primary Occupation)
+pufc18_pnwhrs   C18-Normal Working Hours per Day
+pufc19_phours   C19-Total Number of Hours Worked during the past week
+pufc20_pwmore   C20-Want More Hours of Work
+pufc21_pladdw   C21-Look for Additional Work
+pufc22_pfwrk    C22-First Time to Work
+pufc23_pclass   C23-Class of Worker (Primary Occupation)
+pufc24_pbasis   C24-Basis of Payment (Primary Occupation)
+pufc25_pbasic   C25-Basic Pay per Day (Primary Occupation)
+pufc26_ojob     C26-Other Job Indicator
+pufc27_njobs    C27-Number of Jobs during the past week
+pufc28_thours   C28-Total Hours Worked for all Jobs
+pufc29_wwm48h   C29-Reasons for Working More than 48 Hours during the past week
+pufc30_lookw    C30-Looked for Work or Tried to Establish Business during the past week
+pufc31_flwrk    C31-First Time to Look for Work
+pufc32_jobsm    C32-Job Search Method
+pufc33_weeks    C33-Number of Weeks Spent in Looking for Work
+pufc34_wynot    C34-Reason for not Looking for Work
+pufc35_ltlookw  C35-When Last Looked for Work
+pufc36_avail    C36-Available for Work
+pufc37_willing  C37-Willingness to take up work during the past week or withing two weeks
+pufc38_prevjob  C38-Previous Job Indicator
+pufc40_pocc     C40-Previous Occupation
+pufc41_wqtr     C41-Did work or had a job during the past quarter
+pufc43_qkb      C43-Kind of Business (past quarter)
+pufnewempstat   New Employment Criteria (Jul 05, 2005)
+
+
+PUFREG  
+    13   National Capital Region
+    14   Cordillera Administrative Region
+     1   Region I - Ilocos Region
+     2   Region II - Cagayan Valley
+     3   Region III - Central Luzon
+     4   Region IVA - CALABARZON
+    17   Region IVB - MIMAROPA
+     5   Region V- Bicol
+     6   Region VI - Western Visayas
+     7   Region VII - Central Visayas
+     8   Region VIII - Eastern Visayas
+     9   Region IX - Zamboanga Peninsula
+    10   Region X - Northern Mindanao
+    11   Region XI - Davao
+    12   Region XII - SOCCSKSARGEN
+    16   Region XIII - Caraga
+    15   Autonomous Region in Muslim Mindanao
+
+
+PUFURB2K10
+     1 Urban
+     2 Rural
+
+
+PUFSVYMO
+    10 October
+
+
+PUFSVYYR
+  2017  2017 
+
+
+PUFC03_REL
+     1 Head
+     2 Wife/Spouse
+     3 Son/Daughter
+     4 Brother/Sister
+     5 Son/Daughter-in-law
+     6 Grandchild
+     7 Father/Mother
+     8 Other Relative
+     9 Boarder
+    10 Domestic Helper
+    11 Non-Relative
+
+
+PUFC04_SEX
+     1 Male
+     2 Female
+
+
+PUFC06_MSTAT
+     1 Single
+     2 Married
+     3 Widowed
+     4 Divorced/Separated
+     5 Annulled
+     6 Unknown
+
+
+PUFC07_GRADE
+     0 No Grade Completed
+     1 Nursery
+     2 Kindergarten
+    10 Preschool
+   110 Grade 1
+   120 Grade 2
+   130 Grade 3
+   140 Grade 4
+   150 Grade 5
+   160 Grade 6
+   170 Grade 6 Graduate
+   180 Grade 7 Graduate
+   191 SPED Undergraduate
+   192 SPED Graduate
+   210 First Year High School
+   220 Second Year High School
+   230 Third Year High School
+   240 Fourth Year High School
+   250 High School Graduate
+   310 First Year Post Secondary
+   320 Second Year Post Secondary
+   410 Grade 1 - K to 12 Program
+   420 Grade 2 - K to 12 Program
+   430 Grade 3 - K to 12 Program
+   440 Grade 4 - K to 12 Program
+   450 Grade 5 - K to 12 Program
+   460 Grade 6 - K to 12 Program
+   470 Grade 7 - K to 12 Program
+   480 Grade 8 - K to 12 Program
+   490 Grade 9 - K to 12 Program
+   500 Grade 10 - K to 12 Program
+   510 Grade 11 - K to 12 Program
+   520 Grade 12 - K to 12 Program
+   710 First Year College
+   720 Second Year College
+   730 Third Year College
+   740 Fourth Year College
+   750 Fifth Year College
+   760 Sixth Year College
+   910 Master's Degree Undergraduate - Post Baccalaureate
+   920 Master's Degree Graduate - Post Baccalaureate
+   930 Doctorate Degree Undergraduate - Post Baccalaureate
+   940 Doctorate Degree Graduate - Post Baccalaureate
+   601 Post Secondary Courses Non-Tertiary Education - Basic Programs
+   608 Post Secondary Courses Non-Tertiary Education - Literacy and Numeracy Programs
+   609 Post Secondary Courses Non-Tertiary Education - Personal Development Programs
+   614 Post Secondary Courses Non-Tertiary Education - Teacher Training and Education Sciences Programs
+   621 Post Secondary Courses Non-Tertiary Education - Arts Programs
+   622 Post Secondary Courses Non-Tertiary Education - Humanities Programs
+   631 Post Secondary Courses Non-Tertiary Education - Social and Behavioral Science Programs
+   632 Post Secondary Courses Non-Tertiary Education - Journalism and Information Programs
+   634 Post Secondary Courses Non-Tertiary Education - Business and Administration Programs
+   642 Post Secondary Courses Non-Tertiary Education - Life Sciences Programs
+   644 Post Secondary Courses Non-Tertiary Education - Physical Sciences Programs
+   648 Post Secondary Courses Non-Tertiary Education - Computing/Information Technology Programs
+   652 Post Secondary Courses Non-Tertiary Education - Engineering and Engineering trades Programs
+   654 Post Secondary Courses Non-Tertiary Education - Manufacturing and Processing Programs
+   658 Post Secondary Courses Non-Tertiary Education - Architecture and Building Programs
+   662 Post Secondary Courses Non-Tertiary Education - Agriculture, Forestry, and Fishery Programs
+   664 Post Secondary Courses Non-Tertiary Education - Veterinary Programs
+   672 Post Secondary Courses Non-Tertiary Education - Health Programs
+   676 Post Secondary Courses Non-Tertiary Education - Social Services Programs
+   681 Post Secondary Courses Non-Tertiary Education - Personal Services Programs
+   684 Post Secondary Courses Non-Tertiary Education - Transport Services Programs
+   685 Post Secondary Courses Non-Tertiary Education - Environmental Protection Programs
+   686 Post Secondary Courses Non-Tertiary Education - Security Services Programs
+   689 Post Secondary Courses Non-Tertiary Education - Other Programs in Education at the Third Level, First Stage, of the Type that Leads to an Award Not Equivalent to a First University or Baccalaureate Degree
+   801 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Basic Programs
+   814 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Teacher Training and Education Sciences Programs
+   821 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Arts Programs
+   822 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Humanities Programs
+   831 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Social and Behavioral Science Programs
+   832 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Journalism and Information Programs
+   834 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Business and Administration Programs
+   838 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Law Programs
+   842 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Life Sciences Programs
+   844 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Physical Sciences Programs
+   846 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Mathematics and Statistics Programs
+   848 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Computing/Information Technology Programs
+   852 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Engineering and Engineering Trades Programs
+   854 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Manufacturing and Processing Programs
+   858 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Architecture and Building Programs
+   862 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Agriculture, Forestry, and Fishery Programs
+   864 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Veterinary Programs
+   872 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Health Programs
+   876 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Social Services Programs
+   881 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Personal Services Programs
+   884 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Transport Services Programs
+   885 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Environmental Protection Programs
+   886 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Security Services Programs
+   889 Academic Degrees First Stage of Tertiary/Baccalaureate Education - Other Programs of Education at the Third Level, First Stage, of the Type that Leads to a Baccalaureate or First University/Professional Degree
+
+
+PUFC08_CURSCH
+     1  Currently attending school 
+     2  Not currently attending school 
+
+
+PUFC09_GRADTECH
+     1  A graduate of technical/vocational course 
+     2  Not a graduate of technical/vocational course
+
+
+PUFC10_CONWR
+     1 Overseas Contract Workers
+     2 Workers other than OCW
+     3 Employees in Philippine Embassy, Consulates & other Missions
+     4 Students abroad/Tourists
+     5 Others
+
+
+PUFC11_WORK
+     1  Worked for at least 1 hour in the past week 
+     2  Did not work for at least 1 hour in the past week 
+
+
+PUFC12_JOB
+     1 Did not work but have a job or business during the past week 
+     2 Did not work and have no job or business during the past week 
+
+
+ PUFC14_PROCC  
+  11	14   MANAGERS 	
+	11   Chief executives, senior officials and legislators		
+	12   Administrative and commercial managers		
+	13   Production and specialized services managers		
+	14   Hospitality, retail and other services managers  
+  21	26   PROFESSIONALS
+	21   Science and engineering professionals  
+	22   Health professionals  
+	23   Teaching professionals  
+	24   Business and administration professionals 
+	25   Information and communication technology professionals  
+	26   Legal, social and cultural professionals  
+  31	35   TECHNICIANS AND ASSOCIATE PROFESSIONALS  
+	31   Science and engineering associate professionals  
+	32   Health associate professionals  
+	33   Business and administration associate professionals  
+	34   Legal, social, cultural and related professionals  
+	35   Information and communications technician  
+  41	44   CLERICAL SUPPORT WORKERS  
+	41   General and keyboard clerks  
+	42   Customer service clerks  
+	43   Numerical and material recording clerks 	
+	44   Other clerical support workers	
+  51	54   SERVICE AND SALES WORKERS 	
+	51   Personal service workers		
+	52   Sales workers	 	
+	53   Personal care workers	 	
+	54   Protective services workers
+  61	63   SKILLED AGRICULTURAL, FORESTRY AND FISHERY WORKERS	
+	61   Market-oriented skilled agricultural workers		
+	62   Market-oriented skilled forestry, fishery and hunting workers		
+	63   Subsistence farmers, fishers, hunters and gatherers	
+  71	75   CRAFT AND RELATED TRADES WORKERS
+	71   Building and related trades workers, excluding electricians		
+	72   Metal, machinery and related trades workers		
+	73   Handicraft and printing workers		
+	74   Electrical and electronics trades workers		
+	75   Food processing, wood working, garment and other craft and related trades workers		
+  81	83   PLANT AND MACHINE OPERATORS AND ASSEMBLERS 
+	81   Stationary plant and machine operators		
+	82   Assemblers		
+	83   Drivers and mobile plant operators		
+  91	96   ELEMENTARY OCCUPATIONS	
+	91   Cleaners and helpers		
+	92   Agricultural, forestry and fishery laborers		
+	93   Laborers in mining, construction, manufacturing and transport		
+	94   Food preparation assistants		
+	95   Street and related sales and service workers		
+	96   Refuse workers and other elementary workers	
+   1	 3   ARMED FORCES OCCUPATIONS	
+	 1   Commissioned armed forces officers		
+ 	 2   Non-commissioned armed forces officers		
+ 	 3   Armed forces occupations, other ranks
+
+
+PUFC16_PKB
+   1  3 AGRICULTURE
+   1  2 Agriculture and Forestry
+      3 Fishing		
+   5 43 INDUSTRY 
+   5  9 Mining and Quarrying 
+  10 33 Manufacturing 
+     35 Electricity, Gas, Steam and Airconditioning Supply 
+  36 39 Water Supply; Sewerage, Waste Management and Remediation Activities	 
+  41 43 Construction	 
+  45 99 SERVICES	 
+  45 47 Whosale and Retail Trade; Repair of Motor Vehicles and Motorcycles	 
+  49 53 Transportation and Storage	 
+  55 56 Accommodation and Food Service Activities	 
+  58 63 Information and Communication	 
+  64 66 Financial and Insurance Activities	 
+     68 Real Estate Activities	 	
+  69 75 Professional, Scientific  and Technical Activities	 
+  77 82 Administrative and Support Service Activities	 
+     84 Public Administration and Defense; Compulsory Social Security	 
+     85 Education	 	
+  86 88 Human Health and Social Work Activities	 
+  90 93 Arts, Entertainment and Recreation	 
+  94 96 Other Service Activities	 
+  97 98 Activities of Households as Employers	 
+     99 Activities of Extraterritorial Organizations and Bodies	 	
+
+
+PUFC17_NATEM
+     1 Permanent Job
+     2 Short term
+     3 Different Employer
+
+
+ PUFC19_PHOURS
+     0 with a job, not at work
+   999 Not Reported
+
+
+PUFC20_PWMORE
+     1  Wanted more hours of work  
+     2  Did not want more hours of work  
+
+
+PUFC21_PLADDW
+     1  Looked for additional work  
+     2  Did not look for additional work  
+
+
+PUFC22_PFWRK
+     1  First time to do any work 
+     2  Not first time to do any work 
+
+
+PUFC23_PCLASS
+     0 Private Household
+     1 Private Establishment
+     2 Gov't/Gov't Corporation
+     3 Self Employed
+     4 Employer
+     5 With pay (Family owned Business)
+     6 Without Pay (Family owned Business)
+     9 Not Reported
+
+
+PUFC24_PBASIS
+     0 In Kind only
+     1 Per Piece
+     2 Per Hour
+     3 Per Day
+     4 Monthly
+     5 Pakyaw
+     6 Other Salaries/Wages
+     7 Not Salaries/Wages(Commission Basis)
+
+
+PUFC26_OJOB
+     1  With Other Occupation
+     2  With No Other Occupation
+
+
+PUFC29_WWM48H
+     1 Wanted more earnings
+     2 Requirements of the job
+     3 Exceptional week
+     4 Ambition, passion for job
+     5 Other reasons
+
+
+PUFC30_LOOKW
+     1 Looked for Work or Tried to establish business
+     2 Did not Look for Work or Did not Try to establish business
+
+
+PUFC31_FLWRK
+     1 First Time to Look for Work
+     2 Not First Time to Look For Work
+
+
+PUFC32_JOBSM
+     1 Registered in public employment agency
+     2 Registered in private employment agency
+     3 Approached employer directly
+     4 Approached relatives or friends
+     5 Placed or answered advertisements
+     6 Others
+     9 Not reported
+
+
+PUFC34_WYNOT
+     1 Tired/Believed no Work Available
+     2 Awaiting Results of Previous Job Application
+     3 Temporary Illness/Disability
+     4 Bad Weather
+     5 Wait for rehire/Job Recall
+     6 Too young/old or Retired/Permanent Disability
+     7 Household, family duties
+     8 Schooling
+     9 Others
+
+
+PUFC35_LTLOOKW
+     1 Within last month
+     2 One to six months ago
+     3 More than six months ago
+
+
+PUFC36_AVAIL
+     1 Available for Work  
+     2 Not Available for Work 
+
+
+PUFC37_WILLING
+     1 Willing to take up work  
+     2 Not willing to take up work  
+
+
+PUFC38_PREVJOB
+     1 Worked at Anytime Before
+     2 Did not Work at Anytime Before
+
+
+PUFC40_POCC
+  11	14   MANAGERS 	
+	11   Chief executives, senior officials and legislators		
+	12   Administrative and commercial managers		
+	13   Production and specialized services managers		
+	14   Hospitality, retail and other services managers  
+  21	26   PROFESSIONALS
+	21   Science and engineering professionals  
+	22   Health professionals  
+	23   Teaching professionals  
+	24   Business and administration professionals 
+	25   Information and communication technology professionals  
+	26   Legal, social and cultural professionals  
+  31	35   TECHNICIANS AND ASSOCIATE PROFESSIONALS  
+	31   Science and engineering associate professionals  
+	32   Health associate professionals  
+	33   Business and administration associate professionals  
+	34   Legal, social, cultural and related professionals  
+	35   Information and communications technician  
+  41	44   CLERICAL SUPPORT WORKERS  
+	41   General and keyboard clerks  
+	42   Customer service clerks  
+	43   Numerical and material recording clerks 	
+	44   Other clerical support workers	
+  51	54   SERVICE AND SALES WORKERS 	
+	51   Personal service workers		
+	52   Sales workers	 	
+	53   Personal care workers	 	
+	54   Protective services workers
+  61	63   SKILLED AGRICULTURAL, FORESTRY AND FISHERY WORKERS	
+	61   Market-oriented skilled agricultural workers		
+	62   Market-oriented skilled forestry, fishery and hunting workers		
+	63   Subsistence farmers, fishers, hunters and gatherers	
+  71	75   CRAFT AND RELATED TRADES WORKERS
+	71   Building and related trades workers, excluding electricians		
+	72   Metal, machinery and related trades workers		
+	73   Handicraft and printing workers		
+	74   Electrical and electronics trades workers		
+	75   Food processing, wood working, garment and other craft and related trades workers		
+  81	83   PLANT AND MACHINE OPERATORS AND ASSEMBLERS 
+	81   Stationary plant and machine operators		
+	82   Assemblers		
+	83   Drivers and mobile plant operators		
+  91	96   ELEMENTARY OCCUPATIONS	
+	91   Cleaners and helpers		
+	92   Agricultural, forestry and fishery laborers		
+	93   Laborers in mining, construction, manufacturing and transport		
+	94   Food preparation assistants		
+	95   Street and related sales and service workers		
+	96   Refuse workers and other elementary workers	
+   1	 3   ARMED FORCES OCCUPATIONS	
+	 1   Commissioned armed forces officers		
+ 	 2   Non-commissioned armed forces officers		
+ 	 3   Armed forces occupations, other ranks
+ 
+     
+PUFC41_WQTR
+     1 Worked at all or had a job or business  
+     2 Did not work at all or had a job or business  
+
+
+PUFC43_QKB
+  1  3 AGRICULTURE
+  1  2 Agriculture and Forestry
+     3 Fishing		
+  5 43 INDUSTRY 
+  5  9 Mining and Quarrying 
+ 10 33 Manufacturing 
+    35 Electricity, Gas, Steam and Airconditioning Supply 
+ 36 39 Water Supply; Sewerage, Waste Management and Remediation Activities	 
+ 41 43 Construction	 
+ 45 99 SERVICES	 
+ 45 47 Whosale and Retail Trade; Repair of Motor Vehicles and Motorcycles	 
+ 49 53 Transportation and Storage	 
+ 55 56 Accommodation and Food Service Activities	 
+ 58 63 Information and Communication	 
+ 64 66 Financial and Insurance Activities	 
+    68 Real Estate Activities	 	
+ 69 75 Professional, Scientific  and Technical Activities	 
+ 77 82 Administrative and Support Service Activities	 
+    84 Public Administration and Defense; Compulsory Social Security	 
+    85 Education	 	
+ 86 88 Human Health and Social Work Activities	 
+ 90 93 Arts, Entertainment and Recreation	 
+ 94 96 Other Service Activities	 
+ 97 98 Activities of Households as Employers	 
+    99 Activities of Extraterritorial Organizations and Bodies	 
+
+
+PUFNEWEMPSTAT
+     1 Employed
+     2 Unemployed
+     3 Not in the Labor Force 

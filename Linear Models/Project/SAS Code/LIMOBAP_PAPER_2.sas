@@ -1,0 +1,22 @@
+proc import datafile = 'C:/Users/Justin/Desktop/LIMOBAP/LFS2017_cleaned.csv' out = wage replace;
+run;
+proc reg data = wage plots(maxpoints = none);
+model logwage = hhsize elem_grad hs_grad voc_grad col_grad age married widowed separated annulled rural female visayas mindanao manager professional technician clerical service skilled craft plant_machine armed_forces short_term diff_emp /selection = backward slstay = 0.05 dwprob vif tol collin;
+output out = wage p = yhat r = residual rstudent = studresidual cookd = cooksd h = leverage;
+run;
+proc univariate data = wage normal;
+var residual;
+run;
+proc surveyselect data = wage out = split samprate = 0.5 outall;
+run;
+data wage;
+set split;
+if selected = 1 then
+group = 1;
+else group = 0;
+run;
+proc anova data = wage; 
+class group;
+model residual = group;
+means group /hovtest=bartlett;
+run;

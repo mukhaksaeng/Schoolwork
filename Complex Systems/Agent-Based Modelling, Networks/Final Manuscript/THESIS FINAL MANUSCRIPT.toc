@@ -1,0 +1,48 @@
+\contentsline {chapter}{\numberline {1}Introduction}{11}%
+\contentsline {section}{\numberline {1.1}Background and Motivation of the Study}{11}%
+\contentsline {section}{\numberline {1.2}Objectives of the Study}{13}%
+\contentsline {subsection}{\numberline {1.2.1}General Objective}{13}%
+\contentsline {subsection}{\numberline {1.2.2}Specific Objectives}{13}%
+\contentsline {section}{\numberline {1.3}Scope and Delimitation}{14}%
+\contentsline {section}{\numberline {1.4}Significance of the Study}{15}%
+\contentsline {chapter}{\numberline {2}Review of Related Literature}{16}%
+\contentsline {section}{\numberline {2.1}Characterization of World Trade Networks}{16}%
+\contentsline {section}{\numberline {2.2}Propagation of Economic Shocks}{21}%
+\contentsline {chapter}{\numberline {3}Framework of the Study}{27}%
+\contentsline {section}{\numberline {3.1}Basics of Network Analysis}{27}%
+\contentsline {subsection}{\numberline {3.1.1}Introduction to Networks}{27}%
+\contentsline {subsection}{\numberline {3.1.2}Centrality Measures}{32}%
+\contentsline {subsubsection}{\numberline {3.1.2.1}Centrality Measures specific to Trade Networks}{34}%
+\contentsline {subsection}{\numberline {3.1.3}Other Network Measures}{35}%
+\contentsline {section}{\numberline {3.2}Core-Periphery Structure in Networks}{37}%
+\contentsline {section}{\numberline {3.3}Shock Propagation in Trade Networks}{38}%
+\contentsline {chapter}{\numberline {4}Methodology}{45}%
+\contentsline {section}{\numberline {4.1}Data Pre-processing}{45}%
+\contentsline {section}{\numberline {4.2}Network Visualization and Characterization}{46}%
+\contentsline {section}{\numberline {4.3}Shock Propagation}{47}%
+\contentsline {chapter}{\numberline {5}Results and Discussion}{50}%
+\contentsline {section}{\numberline {5.1}Network Visualization}{50}%
+\contentsline {section}{\numberline {5.2}Network Characterization}{51}%
+\contentsline {subsection}{\numberline {5.2.1}Network-Level Measures}{51}%
+\contentsline {subsection}{\numberline {5.2.2}Centrality Measures}{54}%
+\contentsline {subsubsection}{\numberline {5.2.2.1}Degree Centrality}{54}%
+\contentsline {subsubsection}{\numberline {5.2.2.2}Strength Centrality}{56}%
+\contentsline {subsubsection}{\numberline {5.2.2.3}Betweenness Centrality}{59}%
+\contentsline {subsubsection}{\numberline {5.2.2.4}Eigenvector Centrality}{61}%
+\contentsline {section}{\numberline {5.3}Shock Propagation (Supply-Side Decrease)}{65}%
+\contentsline {subsection}{\numberline {5.3.1}Cascade Size and Cascade Depth}{65}%
+\contentsline {subsubsection}{\numberline {5.3.1.1}Geographic Distribution}{65}%
+\contentsline {subsubsection}{\numberline {5.3.1.2}Distribution based on Shock and Spread Parameters}{67}%
+\contentsline {subsubsection}{\numberline {5.3.1.3}Identifying Core and Peripheral Nodes}{71}%
+\contentsline {subsection}{\numberline {5.3.2}Exposure}{75}%
+\contentsline {section}{\numberline {5.4}Shock Propagation (Supply-Side Increase)}{76}%
+\contentsline {subsection}{\numberline {5.4.1}Cascade Size and Cascade Depth}{76}%
+\contentsline {subsubsection}{\numberline {5.4.1.1}Distribution of Cascade Size and Depth}{76}%
+\contentsline {subsubsection}{\numberline {5.4.1.2}Identifying Core and Peripheral Nodes}{78}%
+\contentsline {subsection}{\numberline {5.4.2}Exposure}{82}%
+\contentsline {section}{\numberline {5.5}Additional Remarks and Recommendations}{83}%
+\contentsline {chapter}{\numberline {6}Summary of Findings, Conclusions and Recommendations}{86}%
+\contentsline {chapter}{Appendices}{90}%
+\cftpagenumbersoff {section}
+\contentsline {chapter}{\numberline {A}Python Script}{91}%
+\contentsline {chapter}{References}{151}%
