@@ -1,5 +1,5 @@
 """
-COMETPY_Pendulum uses the Euler, Euler-Cromer and Verlet method to simulate a pendulum with length 1, angle of
+pendulum uses the Euler, Euler-Cromer and Verlet method to simulate a pendulum with length 1, angle of
 deviation = 0.1 and angular speed = 0.
 
 The program outputs the angle of deviation of the projectile with and without the effects of spin.

@@ -1,5 +1,5 @@
 """
-COMETPY_Projectile_3D uses the Euler method to simulate a 3D-projectile thrown into the air
+3D_projectile uses the Euler method to simulate a 3D-projectile thrown into the air
 at an angle theta. The projectile has a radius = 0.0364, mass = 0.0143 and drag 
 coefficient = 0.52. The density of air is given to be 1225.
 

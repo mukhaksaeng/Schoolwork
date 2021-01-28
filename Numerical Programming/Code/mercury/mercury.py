@@ -1,5 +1,5 @@
 """
-COMETPY_Mercury uses the 2nd order Runge Kutta method to simulate Mercury's orbit.
+mercury uses the 2nd order Runge Kutta method to simulate Mercury's orbit.
 The program outputs the orbit after a certain period of time.
 
 All physical quantities are in standard units unless otherwise stated.
